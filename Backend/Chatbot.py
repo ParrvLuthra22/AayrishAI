@@ -5,7 +5,7 @@ from dotenv import dotenv_values
 
 env_vars = dotenv_values(".env")
 
-Username = env_vars.get("username")
+Username = env_vars.get("Username")
 AssistantName = env_vars.get("AssistantName")
 GroqAPIKey = env_vars.get("GroqAPIKey")
 
