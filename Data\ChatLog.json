@@ -150,5 +150,29 @@
     {
         "role": "assistant",
         "content": "As of my knowledge cutoff, 1 US Dollar is equal to approximately 82.75 Indian Rupees."
+    },
+    {
+        "role": "user",
+        "content": "who is parrv luthra"
+    },
+    {
+        "role": "assistant",
+        "content": "You are Parrv Luthra. According to my search results, you are passionate about playing chess and reading mythology. You also have an interest in 3D Modeling since class. Additionally, you are a student at Pravara Institute of Medical Sciences, Ahmednagar, and have a presence on LinkedIn and Goodreads."
+    },
+    {
+        "role": "user",
+        "content": "who is kuber mehta"
+    },
+    {
+        "role": "assistant",
+        "content": "According to my search results, there are multiple individuals with the name Kuber Mehta. One Kuber Mehta is a student from New Delhi, India, pursuing a dual degree in Computer Science and Artificial Intelligence & Data Science. Another Kuber Mehta is a partner in the Firm's Financial Services and Investments Team in the Boca Raton office, with a career spanning over 20 years."
+    },
+    {
+        "role": "user",
+        "content": "stock price of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current stock price of Apple Inc. (AAPL) is:\n\n* Open: $212.36\n* Closing Price: $211.26\n* Intraday High: $212.57\n* Intraday Low: $209.77\n* 52 Week High: $260.10\n* 52 Week Low: $169.21\n* Market Cap: $3.16T\n* Shares Outstanding: 14.94B\n* Public Float: 14.92B"
     }
 ]
