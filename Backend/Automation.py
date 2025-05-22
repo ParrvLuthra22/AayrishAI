@@ -43,27 +43,3 @@ def Content (Topic):
     def OpenNotepad (File):
         default_text_editor = 'notepad.exe' 
         subprocess.Popen([default_text_editor, File]) 
-
-useragent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36'
-
-client = Groq(api_key=GroqAPIKey)
-
-professional_responses = [
-    "Your satisfaction is my top priority; feel free to reach out if there's anything else I can help you with."
-    "I'm at your service for any additional questions or support you may need-don't hesitate to ask.",
-    ]
-
-messages = []
-
-
-SystemChatBot = [{"role": "system", "content": f"Hello, I am {os.environ['Username']}, You're a content writer. You have to write content like letters, codes, applications, essays, notes, songs, poems etc."}]
-
-def GoogleSearch(Topic):
-    search(Topic) 
-    return True
-
-
-def Content (Topic):
-    def OpenNotepad (File):
-        default_text_editor = 'notepad.exe' 
-        subprocess.Popen([default_text_editor, File]) 
