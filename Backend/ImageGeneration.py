@@ -51,21 +51,23 @@ def GenerateImages(prompt: str):
     open_image(prompt)
 
 while True:
-    try:
-        with open(r"Frontend\Files\ImageGeneration.data", "r") as f:
-            Data: str = f.read()
+    # try:
+    #     with open(r"Frontend/Files/ImageGeneration.data", "r") as f: 
+    #         Data: str = f.read()
 
-        Prompt, Status = Data.split(",")
+    #     Prompt, Status = Data.split(",")
 
-        if Status == "True":
-            print("Generating images...")
-            ImageStatus = GenerateImages(prompt = Prompt)
+    #     if Status == "True":
+    #         print("Generating images...")
+    #         ImageStatus = GenerateImages(prompt = Prompt)
 
-            with open(r"Frontend\Files\ImageGeneration.data", "w") as f:
-                f.write(f"{Prompt},False")
-                break
-        else:
-            sleep(1)
+    #         with open(r"Frontend\Files\ImageGeneration.data", "w") as f:
+    #             f.write(f"{Prompt},False")
+    #             break
+    #     else:
+    #         sleep(1)
+    prompt = "tony stark"
+    status = True
 
-    except Exception as e:
-        print(e)
+    # except Exception as e:
+    #     print(e)
