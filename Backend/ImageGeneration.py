@@ -23,7 +23,6 @@ def open_image(prompt):
         except IOError:
             print(f"Unable to open {image_path}")
 
-API_URL = "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"
 headers = {"Authorization": f"Bearer {get_key('.env', 'HuggingFaceAPIKey')}"}
 
 async def query(payload):
