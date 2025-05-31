@@ -93,13 +93,13 @@ class ChatSection(QWidget):
         text_color_text.setForeground(text_color)
         self.chat_text_edit.setCurrentCharFormat(text_color_text)
         self.gif_label = QLabel()
-        # self.gif_label.setStyleSheet("border: none;")
-        # movie = QMovie(GraphicsDirectoryPath("Jarvis.gif"))
-        # max_gif_size_W = 480
-        # max_gif_size_H = 270
-        # movie.setScaledSize(QSize(max_gif_size_W, max_gif_size_H))
-        # self.gif_label.setAlignment(Qt.AlignRight | Qt.AlignBottom)
-        # self.gif_label.setMovie(movie)
-        # movie.start()
-        # layout.addWidget(self.gif_label)
+        self.gif_label.setStyleSheet("border: none;")
+        movie = QMovie(GraphicsDirectoryPath("Jarvis.gif"))
+        max_gif_size_W = 480
+        max_gif_size_H = 270
+        movie.setScaledSize(QSize(max_gif_size_W, max_gif_size_H))
+        self.gif_label.setAlignment(Qt.AlignRight | Qt.AlignBottom)
+        self.gif_label.setMovie(movie)
+        movie.start()
+        layout.addWidget(self.gif_label)
         
