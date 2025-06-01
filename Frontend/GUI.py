@@ -97,9 +97,9 @@ class ChatSection(QWidget):
         movie = QMovie(GraphicsDirectoryPath("Jarvis.gif"))
         max_gif_size_W = 480
         max_gif_size_H = 270
-        movie.setScaledSize(QSize(max_gif_size_W, max_gif_size_H))
-        self.gif_label.setAlignment(Qt.AlignRight | Qt.AlignBottom)
-        self.gif_label.setMovie(movie)
-        movie.start()
-        layout.addWidget(self.gif_label)
+        # movie.setScaledSize(QSize(max_gif_size_W, max_gif_size_H))
+        # self.gif_label.setAlignment(Qt.AlignRight | Qt.AlignBottom)
+        # self.gif_label.setMovie(movie)
+        # movie.start()
+        # layout.addWidget(self.gif_label)
         
