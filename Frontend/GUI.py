@@ -74,32 +74,77 @@ def ShowTextToScreen(Text):
 
 class ChatSection(QWidget):
     
-    # def __init__(self):
-    #     super(ChatSection, self).__init__()
-    #     layout = QVBoxLayout(self)
-    #     layout.setContentsMargins(-10, 40, 40, 100)
-    #     layout.setSpacing(-100)
-    #     self.chat_text_edit = QTextEdit()
-    #     self.chat_text_edit.setReadOnly(True)
-    #     self.chat_text_edit.setTextInteractionFlags(Qt.NoTextInteraction)
-    #     self.chat_text_edit.setFrameStyle(QFrame.NoFrame)
-    #     layout.addWidget(self.chat_text_edit)
-    #     self.setStyleSheet("background-color: black;")
-    #     layout.setSizeConstraint(QVBoxLayout.SetDefaultConstraint)
-    #     layout.setStretch(1,1)
-    #     self.setSizePolicy(QSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding))
-    #     text_color = QColor(Qt.blue)
-    #     text_color_text = QTextCharFormat()
-    #     text_color_text.setForeground(text_color)
-    #     self.chat_text_edit.setCurrentCharFormat(text_color_text)
-    #     self.gif_label = QLabel()
-    #     self.gif_label.setStyleSheet("border: none;")
-    #     movie = QMovie(GraphicsDirectoryPath("Jarvis.gif"))
-    #     max_gif_size_W = 480
-    #     max_gif_size_H = 270
-    #     movie.setScaledSize(QSize(max_gif_size_W, max_gif_size_H))
-    #     self.gif_label.setAlignment(Qt.AlignRight | Qt.AlignBottom)
-    #     self.gif_label.setMovie(movie)
-    #     movie.start()
-    #     layout.addWidget(self.gif_label)
+    def __init__(self):
+        super(ChatSection, self).__init__()
+        layout = QVBoxLayout(self)
+        layout.setContentsMargins(-10, 40, 40, 100)
+        layout.setSpacing(-100)
+        self.chat_text_edit = QTextEdit()
+        self.chat_text_edit.setReadOnly(True)
+        self.chat_text_edit.setTextInteractionFlags(Qt.NoTextInteraction)
+        self.chat_text_edit.setFrameStyle(QFrame.NoFrame)
+        layout.addWidget(self.chat_text_edit)
+        self.setStyleSheet("background-color: black;")
+        layout.setSizeConstraint(QVBoxLayout.SetDefaultConstraint)
+        layout.setStretch(1,1)
+        self.setSizePolicy(QSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding))
+        text_color = QColor(Qt.blue)
+        text_color_text = QTextCharFormat()
+        text_color_text.setForeground(text_color)
+        self.chat_text_edit.setCurrentCharFormat(text_color_text)
+        self.gif_label = QLabel()
+        self.gif_label.setStyleSheet("border: none;")
+        movie = QMovie(GraphicsDirectoryPath("Jarvis.gif"))
+        max_gif_size_W = 480
+        max_gif_size_H = 270
+        movie.setScaledSize(QSize(max_gif_size_W, max_gif_size_H))
+        self.gif_label.setAlignment(Qt.AlignRight | Qt.AlignBottom)
+        self.gif_label.setMovie(movie)
+        movie.start()
+        layout.addWidget(self.gif_label)
+        self.label() = QLabel("")
+        self.label.setStyleSheet("color: white; font-size:16px; margin-right: 195px; border: none; margin-top: -30px;")
+        self.label.setAlignment(Qt.AlignRight)
+        layout.addWidget(self.label)
+        layout.setSpacing(-10)
+        layout.addWidget(self.gif_label)
+        font = QFont()
+        font.setPointSize(13)
+        self.chat_text_edit.setFont(font)
+        self.timer = QTimer(self)
+        self.timer.timeout.connect(self.loadMessages)
+        self.timer.timeout.connect(self.SpeechRecogText)
+        self.timer.start(5)
+        self.chat_text_edit.viewport().installEventFilter(self)
+        self.setStyleSheet("""
+                QScrollBar:vertical {
+                border: none;
+                background: black;
+                width: 10px;
+                margin: 0px 0px 0px 0px
+                }
+                           
+                QScrollBar::handle:vertical {
+                background: white;
+                min-heightL 20px;}
+                           
+                QScrollBar::add-line:vertical {
+                background: black;
+                subcontrol-position: bottom;
+                height: 10px
+                }
+                
+                QScrollBar::sub-line:vertical {
+                background: black;
+                subcontrol-position: top;
+                subcontrol-origin: margin;
+                height: 10px
+                }
+                
+                QscrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
+                border: none;
+                           }
+                           
+                """)
+
         
