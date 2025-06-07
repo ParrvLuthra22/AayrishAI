@@ -102,4 +102,49 @@ class ChatSection(QWidget):
         self.gif_label.setMovie(movie)
         movie.start()
         layout.addWidget(self.gif_label)
+        self.label() = QLabel("")
+        self.label.setStyleSheet("color: white; font-size:16px; margin-right: 195px; border: none; margin-top: -30px;")
+        self.label.setAlignment(Qt.AlignRight)
+        layout.addWidget(self.label)
+        layout.setSpacing(-10)
+        layout.addWidget(self.gif_label)
+        font = QFont()
+        font.setPointSize(13)
+        self.chat_text_edit.setFont(font)
+        self.timer = QTimer(self)
+        self.timer.timeout.connect(self.loadMessages)
+        self.timer.timeout.connect(self.SpeechRecogText)
+        self.timer.start(5)
+        self.chat_text_edit.viewport().installEventFilter(self)
+        self.setStyleSheet("""
+                QScrollBar:vertical {
+                border: none;
+                background: black;
+                width: 10px;
+                margin: 0px 0px 0px 0px
+                }
+                           
+                QScrollBar::handle:vertical {
+                background: white;
+                min-heightL 20px;}
+                           
+                QScrollBar::add-line:vertical {
+                background: black;
+                subcontrol-position: bottom;
+                height: 10px
+                }
+                
+                QScrollBar::sub-line:vertical {
+                background: black;
+                subcontrol-position: top;
+                subcontrol-origin: margin;
+                height: 10px
+                }
+                
+                QscrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
+                border: none;
+                           }
+                           
+                """)
+
         
