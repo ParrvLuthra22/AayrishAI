@@ -141,10 +141,10 @@ class ChatSection(QWidget):
                 height: 10px
                 }
                 
-                QscrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
-                border: none;
-                           }
+                # QscrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
+                # border: none;
+                #            }
                            
-                """)
+                # """)
 
         
