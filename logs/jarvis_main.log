@@ -942,3 +942,79 @@
 2025-10-19 20:27:12,955 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'I'm functioning optimally, sir...'
 2025-10-19 20:27:20,912 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
 2025-10-19 20:27:20,913 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'I'm functioning optimally, sir. All systems are ru...'
+2025-10-19 20:55:12,350 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:55:13,112 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:55:13,112 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:55:13,112 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:55:13,112 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:55:13,112 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:55:13,112 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:55:13,112 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:55:13,112 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:55:13,112 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:55:13,112 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:55:13,112 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:55:13,112 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:55:13,112 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:55:13,112 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:55:13,112 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:55:13,112 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:55:13,112 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:55:13,389 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:55:13,412 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:55:13,412 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:55:13,412 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:55:13,412 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:55:17,125 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:55:18,387 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:55:18,387 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:55:18,387 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:55:18,387 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:55:18,387 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:55:18,387 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:55:18,387 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:55:18,387 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:55:19,069 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:55:19,145 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:55:19,145 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:55:19,145 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'JARVIS online and ready to ass...'
+2025-10-19 20:55:23,567 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:55:26,041 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:55:30,772 - VOICE_HANDLER - INFO - 🎤 Voice command: was the time right now
+2025-10-19 20:55:30,772 - JARVIS_UI - INFO - 🎤 Voice command received: was the time right now
+2025-10-19 20:55:30,772 - JARVIS_UI - INFO - 💬 Adding chat message: User: 👤 You said: was the time right now...
+2025-10-19 20:55:30,789 - core.brain - INFO - Recognized intent: conversation (confidence: 0.50)
+2025-10-19 20:55:30,789 - SKILL_AIQUERY - INFO - AI query: was the time right now (model: auto)
+2025-10-19 20:55:30,993 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 20:55:31,003 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Sir, the current time is 11:45 AM....'
+2025-10-19 20:55:31,004 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Sir, the current time is 11:45...'
+2025-10-19 20:55:35,558 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:55:35,559 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Sir, the current time is 11:45 AM....'
+2025-10-19 20:55:48,214 - VOICE_HANDLER - INFO - 🎤 Voice command: open safari
+2025-10-19 20:55:48,217 - JARVIS_UI - INFO - 🎤 Voice command received: open safari
+2025-10-19 20:55:48,218 - JARVIS_UI - INFO - 💬 Adding chat message: User: 👤 You said: open safari...
+2025-10-19 20:55:48,224 - core.brain - INFO - Recognized intent: system_control (confidence: 1.00)
+2025-10-19 20:55:48,224 - SKILL_SYSTEMCONTROL - INFO - System control: open safari
+2025-10-19 20:55:50,343 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Opening Safari for you, sir....'
+2025-10-19 20:55:50,343 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Opening Safari for you, sir....'
+2025-10-19 20:55:54,316 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:55:54,319 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Opening Safari for you, sir....'
+2025-10-19 20:56:03,830 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:56:09,510 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:56:15,044 - VOICE_HANDLER - INFO - 🎤 Voice command: who  who is elon musk
+2025-10-19 20:56:15,047 - JARVIS_UI - INFO - 🎤 Voice command received: who  who is elon musk
+2025-10-19 20:56:15,047 - JARVIS_UI - INFO - 💬 Adding chat message: User: 👤 You said: who  who is elon musk...
+2025-10-19 20:56:15,062 - core.brain - INFO - Recognized intent: web_search (confidence: 0.76)
+2025-10-19 20:56:15,062 - SKILL_WEBSEARCH - INFO - Web search: elon musk
+2025-10-19 20:56:15,513 - primp - INFO - response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=elon%20musk 200
+2025-10-19 20:56:15,939 - httpx - INFO - HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/2 200 OK"
+2025-10-19 20:56:15,975 - primp - INFO - response: https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&titles=Elon%20Musk&explaintext=0&exintro=0&redirects=1 200
+2025-10-19 20:56:21,882 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Here's what I found about elon musk:
+
+1. Wealth of...'
+2025-10-19 20:56:21,883 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Here's what I found about elon...'
+2025-10-19 20:56:56,865 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:56:56,868 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Here's what I found about elon musk:
+
+1. Wealth of...'
+2025-10-19 20:57:19,024 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
