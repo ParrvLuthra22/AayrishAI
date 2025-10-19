@@ -1018,3 +1018,7 @@
 
 1. Wealth of...'
 2025-10-19 20:57:19,024 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 21:07:59,268 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 21:07:59,272 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 21:07:59,296 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 21:07:59,296 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
