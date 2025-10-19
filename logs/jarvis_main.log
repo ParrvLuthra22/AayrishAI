@@ -1,0 +1,944 @@
+2025-10-19 02:05:52,767 | INFO | JARVIS_MAIN | 🚀 Starting JARVIS AI Assistant...
+2025-10-19 02:05:53,140 | INFO | JARVIS_MAIN | ✅ Fonts loaded successfully
+2025-10-19 02:05:53,140 | INFO | JARVIS_MAIN | 🧠 Initializing JARVIS memory...
+2025-10-19 02:05:53,144 | INFO | JARVIS_MEMORY | ✅ Database tables created/verified
+2025-10-19 02:05:53,144 | INFO | JARVIS_MEMORY | ✅ JARVIS memory initialized
+2025-10-19 02:05:53,144 | INFO | JARVIS_MAIN | 🤖 Initializing JARVIS brain...
+2025-10-19 02:05:53,144 | ERROR | AI_MANAGER | ❌ AI Manager initialization failed: no running event loop
+2025-10-19 02:05:53,144 | ERROR | JARVIS_BRAIN | ❌ Brain initialization failed: no running event loop
+2025-10-19 02:05:53,144 | ERROR | JARVIS_MAIN | ❌ Component initialization failed: no running event loop
+2025-10-19 02:05:53,153 | INFO | JARVIS_MEMORY | ✅ Database connection closed
+2025-10-19 03:18:44,936 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:18:55,278 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:18:55,562 - JARVIS_MAIN - ERROR - ❌ Component initialization failed: cannot import name 'config_manager' from 'config.settings' (/Users/parrvluthra/Desktop/JarvisAI/config/settings.py)
+2025-10-19 03:19:24,063 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:19:24,391 - JARVIS_MAIN - ERROR - ❌ Component initialization failed: cannot import name 'config' from 'config.settings' (/Users/parrvluthra/Desktop/JarvisAI/config/settings.py)
+2025-10-19 03:20:24,314 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:20:24,726 - JARVIS_MAIN - ERROR - ❌ Component initialization failed: cannot import name 'config' from 'config.settings' (/Users/parrvluthra/Desktop/JarvisAI/config/settings.py)
+2025-10-19 03:21:40,767 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:21:41,690 - JARVIS_MAIN - ERROR - ❌ Component initialization failed: cannot import name 'config' from 'config.settings' (/Users/parrvluthra/Desktop/JarvisAI/config/settings.py)
+2025-10-19 03:22:20,353 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:22:20,790 - JARVIS_MAIN - ERROR - ❌ Component initialization failed: cannot import name 'config' from 'config.settings' (/Users/parrvluthra/Desktop/JarvisAI/config/settings.py)
+2025-10-19 03:22:56,482 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:22:56,886 - JARVIS_MAIN - ERROR - ❌ Component initialization failed: cannot import name 'jarvis_brain' from 'core.brain' (/Users/parrvluthra/Desktop/JarvisAI/core/brain.py)
+2025-10-19 03:23:15,789 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:23:16,746 - JARVIS_MAIN - ERROR - ❌ Component initialization failed: cannot import name 'brain' from 'core.brain' (/Users/parrvluthra/Desktop/JarvisAI/core/brain.py)
+2025-10-19 03:23:47,780 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:23:48,124 - JARVIS_MAIN - ERROR - ❌ Component initialization failed: cannot import name 'brain' from 'core.brain' (/Users/parrvluthra/Desktop/JarvisAI/core/brain.py)
+2025-10-19 03:24:16,740 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:24:17,476 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 03:24:17,515 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 03:24:17,516 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 03:24:17,518 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 03:24:17,518 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 03:24:17,518 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 03:24:17,518 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 03:24:17,518 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 03:24:17,518 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 03:24:17,518 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 03:24:19,387 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 03:24:20,026 - VOICE_HANDLER - ERROR - ❌ TTS initialization failed: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:24:20,026 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 03:24:20,026 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 03:24:20,026 - JARVIS_MAIN - ERROR - ❌ Component initialization failed: 'coroutine' object is not subscriptable
+2025-10-19 03:24:39,505 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:24:40,066 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 03:24:40,080 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 03:24:40,080 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 03:24:40,080 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 03:24:40,080 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 03:24:40,080 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 03:24:40,080 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 03:24:40,080 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 03:24:40,080 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 03:24:40,080 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 03:24:41,365 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 03:24:41,620 - VOICE_HANDLER - ERROR - ❌ TTS initialization failed: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:24:41,621 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 03:24:41,621 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 03:24:41,621 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 03:24:41,621 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 03:24:41,621 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 03:24:41,621 - JARVIS_MAIN - INFO - 🖥️ Launching CLI interface
+2025-10-19 03:24:41,622 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 03:24:46,457 - VOICE_HANDLER - ERROR - ❌ Listening error: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:34:03,498 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:34:03,933 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 03:34:03,950 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 03:34:03,950 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 03:34:03,950 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 03:34:03,950 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 03:34:03,950 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 03:34:03,950 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 03:34:03,951 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 03:34:03,951 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 03:34:03,951 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 03:34:05,306 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 03:34:05,779 - VOICE_HANDLER - ERROR - ❌ TTS initialization failed: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:34:05,781 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 03:34:05,781 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 03:34:05,781 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 03:34:05,781 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 03:34:05,781 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 03:34:05,781 - JARVIS_MAIN - INFO - 🖥️ Launching CLI interface
+2025-10-19 03:34:05,781 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 03:34:09,226 - VOICE_HANDLER - ERROR - ❌ Listening error: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:35:45,497 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:49:53,075 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:49:54,176 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 03:49:54,215 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 03:49:54,215 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 03:49:54,218 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 03:49:54,218 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 03:49:54,218 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 03:49:54,218 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 03:49:54,218 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 03:49:54,218 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 03:49:54,218 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 03:49:57,546 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 03:49:58,184 - VOICE_HANDLER - ERROR - ❌ TTS initialization failed: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:49:58,185 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 03:49:58,185 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 03:49:58,185 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 03:49:58,185 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 03:49:58,185 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 03:49:58,185 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 03:49:58,335 - JARVIS_MAIN - ERROR - ❌ GUI launch failed: invalid syntax (main_window.py, line 1)
+2025-10-19 03:52:28,624 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:52:29,062 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 03:52:29,078 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 03:52:29,078 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 03:52:29,078 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 03:52:29,078 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 03:52:29,078 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 03:52:29,079 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 03:52:29,079 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 03:52:29,079 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 03:52:29,079 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 03:52:30,474 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 03:52:30,956 - VOICE_HANDLER - ERROR - ❌ TTS initialization failed: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:52:30,957 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 03:52:30,957 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 03:52:30,957 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 03:52:30,957 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 03:52:30,957 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 03:52:30,957 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 03:52:37,000 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 03:52:37,089 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 03:52:37,089 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 03:52:48,656 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 03:53:01,592 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:53:02,028 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 03:53:02,041 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 03:53:02,041 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 03:53:02,042 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 03:53:02,042 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 03:53:02,042 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 03:53:02,042 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 03:53:02,042 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 03:53:02,042 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 03:53:02,042 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 03:53:03,351 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 03:53:03,708 - VOICE_HANDLER - ERROR - ❌ TTS initialization failed: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:53:03,708 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 03:53:03,708 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 03:53:03,708 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 03:53:03,708 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 03:53:03,708 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 03:53:03,708 - JARVIS_MAIN - INFO - 🖥️ Launching CLI interface
+2025-10-19 03:53:03,708 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 03:53:04,714 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 03:53:04,725 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 03:53:04,727 - JARVIS_MAIN - ERROR - CLI error: a coroutine was expected, got None
+2025-10-19 03:54:53,263 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:54:53,682 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 03:54:53,698 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 03:54:53,698 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 03:54:53,699 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 03:54:53,699 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 03:54:53,699 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 03:54:53,699 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 03:54:53,699 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 03:54:53,699 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 03:54:53,699 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 03:54:55,096 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 03:54:55,539 - VOICE_HANDLER - ERROR - ❌ TTS initialization failed: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:54:55,540 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 03:54:55,540 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 03:54:55,540 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 03:54:55,540 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 03:54:55,540 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 03:54:55,540 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 03:54:56,153 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 03:54:56,241 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 03:54:56,241 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 03:55:01,155 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 03:57:09,481 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:57:09,921 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 03:57:09,936 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 03:57:09,936 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 03:57:09,937 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 03:57:09,937 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 03:57:09,937 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 03:57:09,937 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 03:57:09,937 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 03:57:09,937 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 03:57:09,937 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 03:57:11,335 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 03:57:11,800 - VOICE_HANDLER - ERROR - ❌ TTS initialization failed: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:57:11,800 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 03:57:11,800 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 03:57:11,800 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 03:57:11,800 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 03:57:11,800 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 03:57:11,800 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 03:57:12,374 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 03:57:12,454 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 03:57:12,454 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 03:57:17,114 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 03:57:26,944 - VOICE_HANDLER - ERROR - ❌ Listening error: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:59:06,548 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 03:59:06,980 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 03:59:06,996 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 03:59:06,996 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 03:59:06,997 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 03:59:06,997 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 03:59:06,997 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 03:59:06,997 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 03:59:06,997 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 03:59:06,997 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 03:59:06,997 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 03:59:08,384 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 03:59:08,782 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:59:08,782 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 03:59:08,783 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 03:59:08,783 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 03:59:08,783 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 03:59:08,783 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 03:59:08,783 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 03:59:08,783 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 03:59:09,326 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 03:59:09,407 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 03:59:09,407 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 03:59:16,855 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 03:59:19,417 - VOICE_HANDLER - ERROR - ❌ Listening error: 'NoneType' object has no attribute 'voice'
+2025-10-19 03:59:51,132 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 03:59:56,572 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 04:00:00,255 - VOICE_HANDLER - ERROR - ❌ Listening error: 'NoneType' object has no attribute 'voice'
+2025-10-19 04:00:08,856 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 04:00:51,403 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 04:00:51,907 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 04:00:51,922 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 04:00:51,922 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 04:00:51,922 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 04:00:51,922 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 04:00:51,922 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 04:00:51,922 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 04:00:51,922 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 04:00:51,922 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 04:00:51,922 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 04:00:53,260 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 04:00:53,645 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 04:00:53,645 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 04:00:53,646 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 04:00:53,646 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 04:00:53,646 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 04:00:53,646 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 04:00:53,646 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 04:00:53,646 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 19:52:05,312 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 19:52:06,043 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 19:52:06,064 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 19:52:06,064 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 19:52:06,065 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 19:52:06,065 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 19:52:06,065 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 19:52:06,065 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 19:52:06,065 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 19:52:06,065 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 19:52:06,065 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 19:52:07,435 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 19:52:08,687 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 19:52:08,687 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 19:52:08,687 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 19:52:08,687 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 19:52:08,687 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 19:52:08,687 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 19:52:08,687 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 19:52:08,687 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 19:52:09,456 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 19:52:09,547 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 19:52:09,547 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 19:52:15,271 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 19:52:17,700 - VOICE_HANDLER - ERROR - ❌ Listening error: 'NoneType' object has no attribute 'voice'
+2025-10-19 19:52:27,750 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:54:09,297 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 19:54:09,944 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 19:54:09,964 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 19:54:09,964 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 19:54:09,965 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 19:54:09,965 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 19:54:09,965 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 19:54:09,965 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 19:54:09,965 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 19:54:09,965 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 19:54:09,965 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 19:54:11,398 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 19:54:12,685 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 19:54:12,685 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 19:54:12,686 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 19:54:12,686 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 19:54:12,686 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 19:54:12,686 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 19:54:12,686 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 19:54:12,686 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 19:54:13,213 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 19:54:13,376 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 19:54:13,376 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 19:54:17,730 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 19:54:20,122 - VOICE_HANDLER - ERROR - ❌ Listening error: 'NoneType' object has no attribute 'voice'
+2025-10-19 19:54:22,197 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:54:22,955 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 19:54:25,364 - VOICE_HANDLER - ERROR - ❌ Listening error: 'NoneType' object has no attribute 'voice'
+2025-10-19 19:54:35,745 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:54:36,273 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 19:54:39,622 - VOICE_HANDLER - ERROR - ❌ Listening error: 'NoneType' object has no attribute 'voice'
+2025-10-19 19:54:40,596 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:54:56,389 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 19:54:56,392 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:54:56,413 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 19:54:56,413 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 19:54:58,615 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 19:54:58,629 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:54:58,643 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 19:54:58,644 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 19:55:44,961 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 19:55:46,008 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 19:55:46,027 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 19:55:46,027 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 19:55:46,028 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 19:55:46,028 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 19:55:46,028 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 19:55:46,028 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 19:55:46,028 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 19:55:46,028 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 19:55:46,028 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 19:55:47,402 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 19:55:48,692 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 19:55:48,692 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 19:55:48,692 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 19:55:48,692 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 19:55:48,692 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 19:55:48,692 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 19:55:48,692 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 19:55:48,692 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 19:55:49,346 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 19:55:49,430 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 19:55:49,430 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 19:55:54,552 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 19:55:56,713 - VOICE_HANDLER - ERROR - ❌ Listening error: 'NoneType' object has no attribute 'user_preferences'
+2025-10-19 19:56:08,824 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:56:46,686 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 19:56:47,182 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 19:56:47,200 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 19:56:47,200 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 19:56:47,201 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 19:56:47,201 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 19:56:47,201 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 19:56:47,201 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 19:56:47,201 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 19:56:47,201 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 19:56:47,201 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 19:56:48,581 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 19:56:49,764 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 19:56:49,765 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 19:56:49,765 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 19:56:49,765 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 19:56:49,765 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 19:56:49,765 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 19:56:49,765 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 19:56:49,765 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 19:56:50,417 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 19:56:50,514 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 19:56:50,514 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 19:56:55,269 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 19:57:00,110 - VOICE_HANDLER - INFO - 🎤 Voice command: how are you
+2025-10-19 19:57:03,032 - VOICE_HANDLER - INFO - 🎤 Voice command: hello
+2025-10-19 19:57:22,273 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:57:45,915 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 19:57:54,270 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:59:08,100 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 19:59:08,108 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:59:08,134 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 19:59:08,135 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 19:59:11,946 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 19:59:16,519 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:59:17,252 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 19:59:17,252 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 19:59:17,254 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 19:59:17,254 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 20:00:58,091 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:00:58,568 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:00:58,585 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:00:58,585 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:00:58,586 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:00:58,586 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:00:58,586 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:00:58,586 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:00:58,586 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:00:58,586 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:00:58,586 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:00:59,909 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:01:00,999 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:01:00,999 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:01:00,999 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:01:00,999 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:01:00,999 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:01:00,999 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:01:00,999 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:01:00,999 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:01:01,535 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:01:01,634 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:01:01,634 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:01:06,020 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:01:10,000 - VOICE_HANDLER - INFO - 🎤 Voice command: how are you
+2025-10-19 20:01:10,006 - core.brain - INFO - Recognized intent: conversation (confidence: 1.00)
+2025-10-19 20:01:10,006 - JARVIS_UI - WARNING - TTS error: 'text'
+2025-10-19 20:01:15,346 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:01:27,617 - core.brain - INFO - Recognized intent: conversation (confidence: 0.50)
+2025-10-19 20:01:27,618 - JARVIS_UI - WARNING - TTS error: 'text'
+2025-10-19 20:01:35,903 - core.brain - INFO - Recognized intent: conversation (confidence: 1.00)
+2025-10-19 20:01:35,904 - JARVIS_UI - WARNING - TTS error: 'text'
+2025-10-19 20:01:38,183 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:01:44,068 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:02:12,121 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 20:02:12,122 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:02:12,131 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 20:02:12,132 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 20:02:15,118 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:02:15,550 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:02:15,568 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:02:15,568 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:02:15,569 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:02:15,569 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:02:15,569 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:02:15,569 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:02:15,569 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:02:15,569 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:02:15,569 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:02:16,849 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:02:17,886 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:02:17,886 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:02:17,886 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:02:17,886 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:02:17,886 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:02:17,886 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:02:17,886 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:02:17,886 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:02:18,308 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:02:18,370 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:02:18,370 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:02:22,974 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:02:27,061 - VOICE_HANDLER - INFO - 🎤 Voice command: hello  how are you
+2025-10-19 20:02:27,077 - core.brain - INFO - Recognized intent: conversation (confidence: 0.61)
+2025-10-19 20:02:27,084 - VOICE_HANDLER - INFO - 🔊 Spoke: I understand you want me to handle 'conversation',...
+2025-10-19 20:02:33,571 - VOICE_HANDLER - INFO - 🎤 Voice command: how are you
+2025-10-19 20:02:33,573 - core.brain - INFO - Recognized intent: conversation (confidence: 1.00)
+2025-10-19 20:02:33,575 - VOICE_HANDLER - INFO - 🔊 Spoke: I understand you want me to handle 'conversation',...
+2025-10-19 20:02:39,458 - VOICE_HANDLER - INFO - 🎤 Voice command: how are you
+2025-10-19 20:02:39,461 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:02:39,473 - core.brain - INFO - Recognized intent: conversation (confidence: 1.00)
+2025-10-19 20:02:39,477 - VOICE_HANDLER - INFO - 🔊 Spoke: I understand you want me to handle 'conversation',...
+2025-10-19 20:03:36,891 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 20:03:36,894 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:03:36,903 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 20:03:36,903 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 20:03:40,240 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:03:40,553 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:03:40,553 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:03:40,553 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:03:40,553 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:03:40,553 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:03:40,553 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:03:40,553 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:03:40,553 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:03:40,553 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:03:40,553 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:03:40,553 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:03:40,661 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:03:40,677 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:03:40,677 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:03:40,677 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:03:40,677 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:03:41,955 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:03:43,010 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:03:43,010 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:03:43,010 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:03:43,010 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:03:43,010 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:03:43,010 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:03:43,010 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:03:43,010 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:03:43,448 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:03:43,529 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:03:43,529 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:03:49,016 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:04:16,092 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:06:23,350 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 20:06:23,353 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:06:23,360 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 20:06:23,361 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 20:06:26,950 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:06:27,289 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:06:27,289 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:06:27,289 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:06:27,289 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:06:27,289 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:06:27,289 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:06:27,289 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:06:27,289 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:06:27,289 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:06:27,289 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:06:27,289 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:06:27,289 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:06:27,289 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:06:27,289 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:06:27,289 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:06:27,289 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:06:27,289 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:06:27,402 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:06:27,422 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:06:27,422 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:06:27,422 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:06:27,422 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:06:28,691 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:06:29,730 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:06:29,730 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:06:29,731 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:06:29,731 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:06:29,731 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:06:29,731 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:06:29,731 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:06:29,731 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:06:30,164 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:06:30,278 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:06:30,278 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:06:34,929 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:06:41,770 - VOICE_HANDLER - INFO - 🎤 Voice command: what's the time
+2025-10-19 20:06:41,774 - core.brain - INFO - Recognized intent: conversation (confidence: 0.50)
+2025-10-19 20:06:41,774 - SKILL_AIQUERY - INFO - AI query: what's the time (model: auto)
+2025-10-19 20:06:41,995 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 20:06:42,011 - VOICE_HANDLER - INFO - 🔊 Spoke: Good day, sir. The current time is 10:47 AM....
+2025-10-19 20:08:47,750 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 20:08:48,752 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:08:48,754 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 20:08:48,754 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 20:08:51,170 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:08:51,467 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:08:51,468 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:08:51,468 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:08:51,468 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:08:51,468 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:08:51,468 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:08:51,468 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:08:51,468 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:08:51,468 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:08:51,468 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:08:51,468 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:08:51,468 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:08:51,468 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:08:51,468 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:08:51,468 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:08:51,468 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:08:51,468 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:08:51,575 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:08:51,591 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:08:51,591 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:08:51,591 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:08:51,591 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:08:52,878 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:08:53,923 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:08:53,923 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:08:53,923 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:08:53,923 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:08:53,923 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:08:53,923 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:08:53,924 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:08:53,924 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:08:54,389 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:08:54,487 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:08:54,487 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:08:54,487 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'JARVIS online and ready to ass...'
+2025-10-19 20:08:57,258 - VOICE_HANDLER - INFO - ✅ TTS: Finished speaking
+2025-10-19 20:08:59,708 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:09:03,879 - VOICE_HANDLER - INFO - 🎤 Voice command: how are you
+2025-10-19 20:09:03,881 - JARVIS_UI - INFO - 🎤 Voice command received: how are you
+2025-10-19 20:09:03,881 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎤 how are you...
+2025-10-19 20:09:03,893 - core.brain - INFO - Recognized intent: conversation (confidence: 1.00)
+2025-10-19 20:09:03,893 - SKILL_AIQUERY - INFO - AI query: how are you (model: auto)
+2025-10-19 20:09:03,894 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'I'm functioning optimally, sir...'
+2025-10-19 20:09:04,002 - VOICE_HANDLER - INFO - ✅ TTS: Finished speaking
+2025-10-19 20:09:04,003 - VOICE_HANDLER - INFO - 🔊 Spoke: I'm functioning optimally, sir. All systems are ru...
+2025-10-19 20:11:41,534 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 20:11:42,536 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:11:42,549 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 20:11:42,549 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 20:11:45,958 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:11:46,283 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:11:46,283 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:11:46,283 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:11:46,283 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:11:46,283 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:11:46,283 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:11:46,283 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:11:46,283 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:11:46,283 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:11:46,283 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:11:46,283 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:11:46,284 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:11:46,284 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:11:46,284 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:11:46,284 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:11:46,284 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:11:46,284 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:11:46,397 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:11:46,414 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:11:46,414 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:11:46,414 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:11:46,414 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:11:47,669 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:11:48,669 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:11:48,669 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:11:48,669 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:11:48,669 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:11:48,669 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:11:48,669 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:11:48,669 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:11:48,669 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:11:49,129 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:11:49,203 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:11:49,203 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:11:49,203 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'JARVIS online and ready to ass...'
+2025-10-19 20:11:53,381 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:11:57,157 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:12:01,727 - VOICE_HANDLER - INFO - 🎤 Voice command: what's the time
+2025-10-19 20:12:01,727 - JARVIS_UI - INFO - 🎤 Voice command received: what's the time
+2025-10-19 20:12:01,728 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎤 what's the time...
+2025-10-19 20:12:01,742 - core.brain - INFO - Recognized intent: conversation (confidence: 0.50)
+2025-10-19 20:12:01,742 - SKILL_AIQUERY - INFO - AI query: what's the time (model: auto)
+2025-10-19 20:12:01,965 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 20:12:01,971 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Good day, Mr. Luthra. The current time is 10:45 AM...'
+2025-10-19 20:12:01,971 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Good day, Mr. Luthra. The curr...'
+2025-10-19 20:12:07,737 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:12:07,738 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Good day, Mr. Luthra. The current time is 10:45 AM...'
+2025-10-19 20:12:12,809 - VOICE_HANDLER - INFO - 🎤 Voice command: open safari
+2025-10-19 20:12:12,811 - JARVIS_UI - INFO - 🎤 Voice command received: open safari
+2025-10-19 20:12:12,811 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎤 open safari...
+2025-10-19 20:12:12,815 - core.brain - INFO - Recognized intent: system_control (confidence: 1.00)
+2025-10-19 20:12:12,815 - SKILL_SYSTEMCONTROL - INFO - System control: open safari
+2025-10-19 20:12:14,767 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Opening Safari for you, sir....'
+2025-10-19 20:12:14,768 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Opening Safari for you, sir....'
+2025-10-19 20:12:18,938 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:12:18,940 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Opening Safari for you, sir....'
+2025-10-19 20:12:54,570 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:12:55,609 - VOICE_HANDLER - INFO - 🎤 Voice command: what can you do
+2025-10-19 20:12:55,610 - JARVIS_UI - INFO - 🎤 Voice command received: what can you do
+2025-10-19 20:12:55,610 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎤 what can you do...
+2025-10-19 20:12:55,626 - core.brain - INFO - Recognized intent: conversation (confidence: 1.00)
+2025-10-19 20:12:55,626 - SKILL_AIQUERY - INFO - AI query: what can you do (model: auto)
+2025-10-19 20:12:55,626 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'I can help you with system control, web searches, ...'
+2025-10-19 20:12:55,627 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'I can help you with system con...'
+2025-10-19 20:12:56,164 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:13:08,260 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:13:08,262 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'I can help you with system control, web searches, ...'
+2025-10-19 20:14:03,342 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:14:03,655 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:14:03,655 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:14:03,655 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:14:03,655 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:14:03,655 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:14:03,655 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:14:03,655 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:14:03,655 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:14:03,655 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:14:03,655 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:14:03,655 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:14:03,655 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:14:03,655 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:14:03,655 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:14:03,655 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:14:03,655 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:14:03,655 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:14:03,762 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:14:03,779 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:14:03,779 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:14:03,779 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:14:03,780 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:14:05,033 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:14:06,039 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:14:06,039 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:14:06,039 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:14:06,039 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:14:06,040 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:14:06,040 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:14:06,040 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:14:06,040 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:14:06,550 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:14:06,654 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:14:06,654 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:14:06,654 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'JARVIS online and ready to ass...'
+2025-10-19 20:14:10,995 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:14:13,309 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:14:18,950 - VOICE_HANDLER - INFO - 🎤 Voice command: who is elon musk
+2025-10-19 20:14:18,951 - JARVIS_UI - INFO - 🎤 Voice command received: who is elon musk
+2025-10-19 20:14:18,951 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎤 who is elon musk...
+2025-10-19 20:14:18,961 - core.brain - INFO - Recognized intent: web_search (confidence: 1.00)
+2025-10-19 20:14:18,961 - SKILL_WEBSEARCH - INFO - Web search: elon musk
+2025-10-19 20:14:19,708 - primp - INFO - response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=elon%20musk 200
+2025-10-19 20:14:20,037 - primp - INFO - response: https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&titles=Elon%20Musk&explaintext=0&exintro=0&redirects=1 200
+2025-10-19 20:14:21,014 - primp - INFO - response: https://www.mojeek.com/search?q=elon+musk 200
+2025-10-19 20:14:27,124 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Here's what I found about elon musk:
+
+1. Wealth of...'
+2025-10-19 20:14:27,125 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Here's what I found about elon...'
+2025-10-19 20:15:01,668 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:15:01,670 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Here's what I found about elon musk:
+
+1. Wealth of...'
+2025-10-19 20:15:37,232 - VOICE_HANDLER - INFO - 🎤 Voice command: open spotify
+2025-10-19 20:15:37,233 - JARVIS_UI - INFO - 🎤 Voice command received: open spotify
+2025-10-19 20:15:37,233 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎤 open spotify...
+2025-10-19 20:15:37,251 - core.brain - INFO - Recognized intent: system_control (confidence: 1.00)
+2025-10-19 20:15:37,252 - SKILL_SYSTEMCONTROL - INFO - System control: open spotify
+2025-10-19 20:15:37,474 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Opening Spotify for you, sir....'
+2025-10-19 20:15:37,474 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Opening Spotify for you, sir....'
+2025-10-19 20:15:41,783 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:15:41,787 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Opening Spotify for you, sir....'
+2025-10-19 20:15:49,488 - VOICE_HANDLER - INFO - 🎤 Voice command: can you generate an image for me
+2025-10-19 20:15:49,490 - JARVIS_UI - INFO - 🎤 Voice command received: can you generate an image for me
+2025-10-19 20:15:49,490 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎤 can you generate an image for me...
+2025-10-19 20:15:49,513 - core.brain - INFO - Recognized intent: ai_query (confidence: 0.75)
+2025-10-19 20:15:49,513 - SKILL_AIQUERY - INFO - AI query: an image for me (model: auto)
+2025-10-19 20:15:49,763 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 20:15:49,778 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Displaying image of the Tesla Cybertruck, sir....'
+2025-10-19 20:15:49,778 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Displaying image of the Tesla ...'
+2025-10-19 20:15:54,215 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:15:54,216 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Displaying image of the Tesla Cybertruck, sir....'
+2025-10-19 20:17:11,234 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:17:12,782 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:18:09,411 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:18:59,404 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 20:18:59,405 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:18:59,424 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 20:18:59,424 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 20:20:05,068 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:20:05,411 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:20:05,411 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:20:05,411 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:20:05,411 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:20:05,411 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:20:05,411 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:20:05,411 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:20:05,411 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:20:05,411 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:20:05,411 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:20:05,411 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:20:05,411 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:20:05,411 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:20:05,411 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:20:05,411 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:20:05,411 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:20:05,411 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:20:05,523 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:20:05,540 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:20:05,540 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:20:05,540 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:20:05,540 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:20:09,111 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:20:10,320 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:20:10,320 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:20:10,320 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:20:10,320 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:20:10,320 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:20:10,320 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:20:10,320 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:20:10,320 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:20:10,953 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:20:11,059 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:20:11,059 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:20:11,059 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'JARVIS online and ready to ass...'
+2025-10-19 20:20:15,530 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:20:17,471 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:20:29,911 - VOICE_HANDLER - INFO - 🎤 Voice command: what's the time
+2025-10-19 20:20:29,914 - JARVIS_UI - INFO - 🎤 Voice command received: what's the time
+2025-10-19 20:20:29,914 - JARVIS_UI - INFO - 💬 Adding chat message: User: 👤 You said: what's the time...
+2025-10-19 20:20:29,931 - core.brain - INFO - Recognized intent: conversation (confidence: 0.50)
+2025-10-19 20:20:29,933 - SKILL_AIQUERY - INFO - AI query: what's the time (model: auto)
+2025-10-19 20:20:30,152 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 20:20:30,161 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Good morning, Mr. Luthra. The current time is 08:4...'
+2025-10-19 20:20:30,162 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Good morning, Mr. Luthra. The ...'
+2025-10-19 20:20:36,320 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:20:36,321 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Good morning, Mr. Luthra. The current time is 08:4...'
+2025-10-19 20:20:37,611 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎯 Quick: open music...
+2025-10-19 20:20:37,627 - core.brain - INFO - Recognized intent: system_control (confidence: 1.00)
+2025-10-19 20:20:37,627 - SKILL_SYSTEMCONTROL - INFO - System control: open music
+2025-10-19 20:20:39,955 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Opening Music for you, sir....'
+2025-10-19 20:20:39,956 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Opening Music for you, sir....'
+2025-10-19 20:20:43,421 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:20:43,423 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Opening Music for you, sir....'
+2025-10-19 20:20:45,487 - JARVIS_UI - INFO - 💬 Adding chat message: JARVIS: Theme switching is in development....
+2025-10-19 20:20:47,224 - JARVIS_UI - INFO - 💬 Adding chat message: JARVIS: Settings panel is in development....
+2025-10-19 20:20:52,187 - JARVIS_UI - INFO - 💬 Adding chat message: User: 💬 You typed: hi...
+2025-10-19 20:20:52,191 - core.brain - INFO - Recognized intent: conversation (confidence: 1.00)
+2025-10-19 20:20:52,191 - SKILL_AIQUERY - INFO - AI query: hi (model: auto)
+2025-10-19 20:20:52,192 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Hello Mr. Luthra! I'm JARVIS, your AI assistant. H...'
+2025-10-19 20:20:52,192 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Hello Mr. Luthra! I'm JARVIS, ...'
+2025-10-19 20:20:59,742 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:20:59,743 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Hello Mr. Luthra! I'm JARVIS, your AI assistant. H...'
+2025-10-19 20:21:06,214 - JARVIS_UI - INFO - 💬 Adding chat message: User: 💬 You typed: can you help me generate an image...
+2025-10-19 20:21:06,221 - core.brain - INFO - Recognized intent: ai_query (confidence: 0.52)
+2025-10-19 20:21:06,222 - SKILL_AIQUERY - INFO - AI query: an image (model: auto)
+2025-10-19 20:21:06,472 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 20:21:06,480 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Showing you an image, sir. Please specify what typ...'
+2025-10-19 20:21:06,483 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Showing you an image, sir. Ple...'
+2025-10-19 20:21:17,661 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:21:17,662 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Showing you an image, sir. Please specify what typ...'
+2025-10-19 20:21:19,763 - JARVIS_UI - INFO - 💬 Adding chat message: User: 💬 You typed: a cat...
+2025-10-19 20:21:19,766 - core.brain - INFO - Recognized intent: conversation (confidence: 0.50)
+2025-10-19 20:21:19,767 - SKILL_AIQUERY - INFO - AI query: a cat (model: auto)
+2025-10-19 20:21:20,005 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 20:21:20,007 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Generating a high-quality image of a cat for you, ...'
+2025-10-19 20:21:20,007 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Generating a high-quality imag...'
+2025-10-19 20:21:36,653 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:21:36,654 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Generating a high-quality image of a cat for you, ...'
+2025-10-19 20:21:37,706 - JARVIS_UI - INFO - 💬 Adding chat message: User: 💬 You typed: realistic and persian and garden...
+2025-10-19 20:21:37,708 - core.brain - INFO - Recognized intent: conversation (confidence: 0.50)
+2025-10-19 20:21:37,708 - SKILL_AIQUERY - INFO - AI query: realistic and persian and garden (model: auto)
+2025-10-19 20:21:38,174 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 20:21:38,177 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Mr. Luthra, I've generated a high-quality, realist...'
+2025-10-19 20:21:38,178 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Mr. Luthra, I've generated a h...'
+2025-10-19 20:22:30,330 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:22:30,332 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Mr. Luthra, I've generated a high-quality, realist...'
+2025-10-19 20:23:28,786 - JARVIS_UI - INFO - 💬 Adding chat message: User: 💬 You typed: so what else can you do...
+2025-10-19 20:23:28,806 - core.brain - INFO - Recognized intent: conversation (confidence: 0.50)
+2025-10-19 20:23:28,806 - SKILL_AIQUERY - INFO - AI query: so what else can you do (model: auto)
+2025-10-19 20:23:29,416 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 20:23:29,425 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'An excellent question, Mr. Luthra. As your advance...'
+2025-10-19 20:23:29,425 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'An excellent question, Mr. Lut...'
+2025-10-19 20:23:49,650 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎯 Quick: open mail...
+2025-10-19 20:23:49,658 - core.brain - INFO - Recognized intent: system_control (confidence: 1.00)
+2025-10-19 20:23:49,658 - SKILL_SYSTEMCONTROL - INFO - System control: open mail
+2025-10-19 20:23:51,025 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Opening Mail for you, sir....'
+2025-10-19 20:23:51,027 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Opening Mail for you, sir....'
+2025-10-19 20:23:53,844 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:23:53,852 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Opening Mail for you, sir....'
+2025-10-19 20:23:59,624 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎯 Quick: open documents folder...
+2025-10-19 20:23:59,644 - core.brain - INFO - Recognized intent: system_control (confidence: 1.00)
+2025-10-19 20:23:59,644 - SKILL_SYSTEMCONTROL - INFO - System control: open documents folder
+2025-10-19 20:23:59,746 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'I couldn't find or open Documents Folder. Please c...'
+2025-10-19 20:23:59,747 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'I couldn't find or open Docume...'
+2025-10-19 20:24:06,241 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:24:06,242 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'I couldn't find or open Documents Folder. Please c...'
+2025-10-19 20:24:08,271 - JARVIS_UI - INFO - 💬 Adding chat message: User: 🎯 Quick: open finder...
+2025-10-19 20:24:08,282 - core.brain - INFO - Recognized intent: system_control (confidence: 1.00)
+2025-10-19 20:24:08,282 - SKILL_SYSTEMCONTROL - INFO - System control: open finder
+2025-10-19 20:24:08,480 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'Opening Finder for you, sir....'
+2025-10-19 20:24:08,481 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'Opening Finder for you, sir....'
+2025-10-19 20:24:13,471 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:24:13,474 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'Opening Finder for you, sir....'
+2025-10-19 20:25:42,608 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:25:42,609 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'An excellent question, Mr. Luthra. As your advance...'
+2025-10-19 20:26:01,177 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:26:01,499 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:26:01,499 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:26:01,499 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:26:01,499 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:26:01,499 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:26:01,499 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:26:01,499 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:26:01,499 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:26:01,499 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:26:01,499 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:26:01,499 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:26:01,499 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:26:01,499 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:26:01,499 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:26:01,499 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:26:01,499 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:26:01,499 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:26:01,605 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:26:01,621 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:26:01,621 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:26:01,621 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:26:01,621 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:26:02,898 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:26:03,977 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:26:03,977 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:26:03,977 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:26:03,977 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:26:03,977 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:26:03,977 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:26:03,977 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:26:03,977 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:26:04,530 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:26:04,619 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:26:04,619 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:26:04,619 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'JARVIS online and ready to ass...'
+2025-10-19 20:26:08,959 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:26:11,410 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:26:22,526 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:26:23,938 - JARVIS_UI - INFO - 💬 Adding chat message: JARVIS: 🎤 Listening for your command......
+2025-10-19 20:26:31,609 - JARVIS_UI - INFO - 💬 Adding chat message: JARVIS: 🎤 Listening for your command......
+2025-10-19 20:26:33,389 - VOICE_HANDLER - ERROR - ❌ Listening error: This audio source is already inside a context manager
+2025-10-19 20:26:33,389 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:26:48,221 - JARVIS_UI - INFO - 🔄 Shutting down JARVIS interface...
+2025-10-19 20:26:48,223 - VOICE_HANDLER - INFO - 🔇 Stopped voice recognition
+2025-10-19 20:26:48,227 - VOICE_HANDLER - INFO - 🔇 Voice handler shutdown complete
+2025-10-19 20:26:48,227 - JARVIS_UI - INFO - ✅ JARVIS interface shutdown complete
+2025-10-19 20:26:59,834 - JARVIS_MAIN - INFO - 🚀 JARVIS startup initiated
+2025-10-19 20:27:00,166 - SKILL_MANAGER - INFO - ✅ Initialized 4 skills
+2025-10-19 20:27:00,166 - SKILL_MANAGER - INFO -   - SystemControl: Control macOS system functions like opening apps, shutdown, volume control
+2025-10-19 20:27:00,166 - SKILL_MANAGER - INFO -   - WebSearch: Search the web for information, news, weather, and facts
+2025-10-19 20:27:00,166 - SKILL_MANAGER - INFO -   - AIQuery: Query specific AI models and handle general conversation
+2025-10-19 20:27:00,166 - SKILL_MANAGER - INFO -   - FileOperations: Create, read, move, and manage files and folders
+2025-10-19 20:27:00,166 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:27:00,166 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:27:00,166 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:27:00,166 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:27:00,166 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:27:00,166 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:27:00,166 - core.brain - INFO - Registered skill handler for intent: system_control
+2025-10-19 20:27:00,166 - core.brain - INFO - Registered skill handler for intent: web_search
+2025-10-19 20:27:00,166 - core.brain - INFO - Registered skill handler for intent: ai_query
+2025-10-19 20:27:00,166 - core.brain - INFO - Registered skill handler for intent: conversation
+2025-10-19 20:27:00,166 - core.brain - INFO - Registered skill handler for intent: file_operations
+2025-10-19 20:27:00,166 - core.brain - INFO - ✅ Initialized 4 skills with 5 intent mappings
+2025-10-19 20:27:00,271 - api.ai_manager - INFO - ✅ Groq client initialized
+2025-10-19 20:27:00,287 - api.search_manager - INFO - ✅ DuckDuckGo search initialized
+2025-10-19 20:27:00,287 - api.search_manager - INFO - ✅ Wikipedia search available
+2025-10-19 20:27:00,287 - JARVIS_MAIN - INFO - 🧠 Initializing JARVIS components...
+2025-10-19 20:27:00,287 - JARVIS_MAIN - INFO - ✅ Configuration loaded
+2025-10-19 20:27:01,546 - VOICE_HANDLER - INFO - ✅ Speech recognition initialized
+2025-10-19 20:27:02,590 - VOICE_HANDLER - WARNING - ⚠️ Could not set TTS properties: 'NoneType' object has no attribute 'voice'
+2025-10-19 20:27:02,590 - VOICE_HANDLER - INFO - ✅ Text-to-speech initialized
+2025-10-19 20:27:02,590 - VOICE_HANDLER - INFO - ✅ Voice handler initialized successfully
+2025-10-19 20:27:02,590 - JARVIS_MAIN - INFO - ✅ Voice handler initialized (Advanced)
+2025-10-19 20:27:02,590 - JARVIS_MAIN - INFO - ✅ AI Manager: 1 models available
+2025-10-19 20:27:02,590 - JARVIS_MAIN - INFO - ✅ Search Manager: 2 engines available
+2025-10-19 20:27:02,591 - JARVIS_MAIN - INFO - ✅ Skills Manager: 4 skills loaded
+2025-10-19 20:27:02,591 - JARVIS_MAIN - INFO - 🖼️ Launching GUI interface
+2025-10-19 20:27:02,949 - JARVIS_UI - INFO - ✅ JARVIS main window initialized
+2025-10-19 20:27:03,001 - JARVIS_MAIN - INFO - 🚀 JARVIS GUI launched successfully
+2025-10-19 20:27:03,001 - JARVIS_MAIN - INFO - 💬 You can now interact with JARVIS through the interface
+2025-10-19 20:27:03,001 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'JARVIS online and ready to ass...'
+2025-10-19 20:27:07,319 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:27:09,455 - VOICE_HANDLER - INFO - 🎤 Started voice recognition
+2025-10-19 20:27:12,944 - VOICE_HANDLER - INFO - 🎤 Voice command: how are you
+2025-10-19 20:27:12,945 - JARVIS_UI - INFO - 🎤 Voice command received: how are you
+2025-10-19 20:27:12,945 - JARVIS_UI - INFO - 💬 Adding chat message: User: 👤 You said: how are you...
+2025-10-19 20:27:12,954 - core.brain - INFO - Recognized intent: conversation (confidence: 1.00)
+2025-10-19 20:27:12,954 - SKILL_AIQUERY - INFO - AI query: how are you (model: auto)
+2025-10-19 20:27:12,954 - VOICE_HANDLER - INFO - 🎤 Starting TTS for: 'I'm functioning optimally, sir. All systems are ru...'
+2025-10-19 20:27:12,955 - VOICE_HANDLER - INFO - 🔊 TTS: Speaking 'I'm functioning optimally, sir...'
+2025-10-19 20:27:20,912 - VOICE_HANDLER - INFO - ✅ System TTS: Successfully spoke using 'say' command
+2025-10-19 20:27:20,913 - VOICE_HANDLER - INFO - 🔊 Completed TTS for: 'I'm functioning optimally, sir. All systems are ru...'

@@ -1,0 +1,1218 @@
+2025-10-19 00:03:34,241 - JarvisAI - INFO - config.py:138 - JarvisAI Core System Initialized
+2025-10-19 00:03:39,907 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:03:39,908 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:03:40,071 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:03:40,072 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:03:40,084 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:03:40,084 - JarvisAI - INFO - config.py:138 - Classifying query: How are you today?...
+2025-10-19 00:03:40,472 - JarvisAI - ERROR - config.py:150 - Error classifying query: status_code: 404, body: {'id': '911a87da-e528-4635-9d64-c975b6705698', 'message': "model 'command-r-plus' was removed on September 15, 2025. See https://docs.cohere.com/docs/models#command for a list of models you can use instead."}
+2025-10-19 00:03:40,472 - JarvisAI - INFO - config.py:138 - Classifying query: What's the weather like?...
+2025-10-19 00:03:40,876 - JarvisAI - ERROR - config.py:150 - Error classifying query: status_code: 404, body: {'id': 'd13487bb-5d13-45be-82a9-d120f5826455', 'message': "model 'command-r-plus' was removed on September 15, 2025. See https://docs.cohere.com/docs/models#command for a list of models you can use instead."}
+2025-10-19 00:03:40,876 - JarvisAI - INFO - config.py:138 - Classifying query: Open Chrome browser...
+2025-10-19 00:03:41,200 - JarvisAI - ERROR - config.py:150 - Error classifying query: status_code: 404, body: {'id': 'a4164eb9-173b-4aba-9e27-c42aad30109e', 'message': "model 'command-r-plus' was removed on September 15, 2025. See https://docs.cohere.com/docs/models#command for a list of models you can use instead."}
+2025-10-19 00:03:41,201 - JarvisAI - INFO - config.py:138 - Classifying query: Play some music...
+2025-10-19 00:03:41,592 - JarvisAI - ERROR - config.py:150 - Error classifying query: status_code: 404, body: {'id': '4041daa4-d004-41ea-abda-bc7570cfe897', 'message': "model 'command-r-plus' was removed on September 15, 2025. See https://docs.cohere.com/docs/models#command for a list of models you can use instead."}
+2025-10-19 00:03:41,651 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:03:41,670 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:03:41,670 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:03:41,682 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:03:41,682 - JarvisAI - INFO - config.py:138 - Processing query: Hello, how are you?...
+2025-10-19 00:03:41,682 - JarvisAI - INFO - config.py:138 - JSON file not found, creating: /Users/parrvluthra/Desktop/JarvisAI/Data/ChatLog.json
+2025-10-19 00:03:41,683 - JarvisAI - DEBUG - config.py:132 - Successfully wrote JSON to /Users/parrvluthra/Desktop/JarvisAI/Data/ChatLog.json
+2025-10-19 00:03:41,924 - JarvisAI - ERROR - config.py:150 - Error generating chatbot response: Error code: 400 - {'error': {'message': 'The model `llama3-70b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-19 00:08:13,429 - JarvisAI - INFO - config.py:138 - JarvisAI Core System Initialized
+2025-10-19 00:08:14,321 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:08:14,322 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:08:14,411 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:08:14,412 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:08:14,425 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:08:14,425 - JarvisAI - INFO - config.py:138 - Classifying query: How are you today?...
+2025-10-19 00:08:14,900 - JarvisAI - ERROR - config.py:150 - Error classifying query: status_code: 404, body: {'id': '3e7c89cb-042c-4081-8ebd-543654f3739c', 'message': "model 'command-r' was removed on September 15, 2025. See https://docs.cohere.com/docs/models#command for a list of models you can use instead."}
+2025-10-19 00:08:14,901 - JarvisAI - INFO - config.py:138 - Classifying query: What's the weather like?...
+2025-10-19 00:08:15,224 - JarvisAI - ERROR - config.py:150 - Error classifying query: status_code: 404, body: {'id': '45dfbfe2-f807-4cce-b9a6-04caf99cfbd5', 'message': "model 'command-r' was removed on September 15, 2025. See https://docs.cohere.com/docs/models#command for a list of models you can use instead."}
+2025-10-19 00:08:15,224 - JarvisAI - INFO - config.py:138 - Classifying query: Open Chrome browser...
+2025-10-19 00:08:15,622 - JarvisAI - ERROR - config.py:150 - Error classifying query: status_code: 404, body: {'id': 'fb9dd55b-d86f-4b0a-b028-f5bc79813523', 'message': "model 'command-r' was removed on September 15, 2025. See https://docs.cohere.com/docs/models#command for a list of models you can use instead."}
+2025-10-19 00:08:15,623 - JarvisAI - INFO - config.py:138 - Classifying query: Play some music...
+2025-10-19 00:08:16,005 - JarvisAI - ERROR - config.py:150 - Error classifying query: status_code: 404, body: {'id': '66bf3e90-7dc2-4edc-826a-3b40d20c84f1', 'message': "model 'command-r' was removed on September 15, 2025. See https://docs.cohere.com/docs/models#command for a list of models you can use instead."}
+2025-10-19 00:08:16,199 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:08:16,211 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:08:16,212 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:08:16,226 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:08:16,226 - JarvisAI - INFO - config.py:138 - Processing query: Hello, how are you?...
+2025-10-19 00:08:16,372 - JarvisAI - ERROR - config.py:150 - Error generating chatbot response: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-19 00:09:12,656 - JarvisAI - INFO - config.py:138 - JarvisAI Core System Initialized
+2025-10-19 00:09:13,295 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:09:13,296 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:09:13,410 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:09:13,410 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:09:13,423 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:09:13,423 - JarvisAI - INFO - config.py:138 - Classifying query: How are you today?...
+2025-10-19 00:09:13,423 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['realtime']
+2025-10-19 00:09:13,423 - JarvisAI - INFO - config.py:138 - Classifying query: What's the weather like?...
+2025-10-19 00:09:13,423 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['realtime']
+2025-10-19 00:09:13,423 - JarvisAI - INFO - config.py:138 - Classifying query: Open Chrome browser...
+2025-10-19 00:09:13,423 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['open']
+2025-10-19 00:09:13,424 - JarvisAI - INFO - config.py:138 - Classifying query: Play some music...
+2025-10-19 00:09:13,424 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['play']
+2025-10-19 00:09:13,497 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:09:13,510 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:09:13,511 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:09:13,524 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:09:13,525 - JarvisAI - INFO - config.py:138 - Processing query: Hello, how are you?...
+2025-10-19 00:09:13,666 - JarvisAI - ERROR - config.py:150 - Error generating chatbot response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-19 00:09:46,772 - JarvisAI - INFO - config.py:138 - JarvisAI Core System Initialized
+2025-10-19 00:09:47,185 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:09:47,185 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:09:47,271 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:09:47,271 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:09:47,285 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:09:47,285 - JarvisAI - INFO - config.py:138 - Classifying query: How are you today?...
+2025-10-19 00:09:47,285 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['realtime']
+2025-10-19 00:09:47,285 - JarvisAI - INFO - config.py:138 - Classifying query: What's the weather like?...
+2025-10-19 00:09:47,285 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['realtime']
+2025-10-19 00:09:47,285 - JarvisAI - INFO - config.py:138 - Classifying query: Open Chrome browser...
+2025-10-19 00:09:47,285 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['open']
+2025-10-19 00:09:47,285 - JarvisAI - INFO - config.py:138 - Classifying query: Play some music...
+2025-10-19 00:09:47,285 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['play']
+2025-10-19 00:09:47,320 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:09:47,334 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:09:47,334 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:09:47,348 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:09:47,348 - JarvisAI - INFO - config.py:138 - Processing query: Hello, how are you?...
+2025-10-19 00:09:47,524 - JarvisAI - ERROR - config.py:150 - Error generating chatbot response: Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-19 00:10:26,753 - JarvisAI - INFO - config.py:138 - JarvisAI Core System Initialized
+2025-10-19 00:10:27,122 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:10:27,122 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:10:27,202 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:10:27,202 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:10:27,215 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:10:27,215 - JarvisAI - INFO - config.py:138 - Classifying query: How are you today?...
+2025-10-19 00:10:27,215 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['realtime']
+2025-10-19 00:10:27,215 - JarvisAI - INFO - config.py:138 - Classifying query: What's the weather like?...
+2025-10-19 00:10:27,215 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['realtime']
+2025-10-19 00:10:27,215 - JarvisAI - INFO - config.py:138 - Classifying query: Open Chrome browser...
+2025-10-19 00:10:27,215 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['open']
+2025-10-19 00:10:27,215 - JarvisAI - INFO - config.py:138 - Classifying query: Play some music...
+2025-10-19 00:10:27,215 - JarvisAI - INFO - config.py:138 - Classified into 1 commands: ['play']
+2025-10-19 00:10:27,250 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:10:27,263 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:10:27,264 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:10:27,277 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:10:27,277 - JarvisAI - INFO - config.py:138 - Processing query: Hello, how are you?...
+2025-10-19 00:10:27,548 - JarvisAI - DEBUG - config.py:132 - Successfully wrote JSON to /Users/parrvluthra/Desktop/JarvisAI/Data/ChatLog.json
+2025-10-19 00:10:27,548 - JarvisAI - INFO - config.py:138 - Generated response: Nice to meet you, Parrv Luthra! I'm functioning pe...
+2025-10-19 00:13:31,152 - JarvisAI - INFO - config.py:138 - JarvisAI Core System Initialized
+2025-10-19 00:13:31,154 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:31,355 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:31,440 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:13:31,553 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:31,567 - JarvisAI - INFO - config.py:138 - RealtimeSearchService initialized
+2025-10-19 00:13:31,746 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:31,759 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:13:31,762 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:31,762 - JarvisAI - INFO - config.py:138 - AutomationService initialized for Darwin
+2025-10-19 00:13:31,768 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:31,768 - JarvisAI - INFO - config.py:138 - JarvisController initialized
+2025-10-19 00:13:31,768 - JarvisAI - INFO - config.py:138 - Starting JarvisAI application...
+2025-10-19 00:13:32,161 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:32,330 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:32,334 - JarvisAI - DEBUG - config.py:132 - Added user message: Hello, how are you?...
+2025-10-19 00:13:32,335 - JarvisAI - DEBUG - config.py:132 - Added assistant message: Nice to meet you, Parrv Luthra! I'm functioning pe...
+2025-10-19 00:13:32,335 - JarvisAI - DEBUG - config.py:132 - Subscribed to response_display
+2025-10-19 00:13:32,335 - JarvisAI - DEBUG - config.py:132 - Subscribed to processing_start
+2025-10-19 00:13:32,335 - JarvisAI - DEBUG - config.py:132 - Subscribed to processing_end
+2025-10-19 00:13:32,340 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:32,380 - JarvisAI - DEBUG - config.py:132 - Subscribed to voice_input_start
+2025-10-19 00:13:32,380 - JarvisAI - DEBUG - config.py:132 - Subscribed to voice_input_end
+2025-10-19 00:13:32,386 - JarvisAI - DEBUG - config.py:132 - Subscribed to microphone_toggle
+2025-10-19 00:13:32,386 - JarvisAI - DEBUG - config.py:132 - Subscribed to voice_input_start
+2025-10-19 00:13:32,386 - JarvisAI - INFO - config.py:138 - Modern main window initialized
+2025-10-19 00:13:32,387 - JarvisAI - INFO - config.py:138 - Voice input monitoring started
+2025-10-19 00:13:32,387 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:32,406 - JarvisAI - INFO - config.py:138 - ChatbotService initialized
+2025-10-19 00:13:32,408 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:32,455 - JarvisAI - INFO - config.py:138 - RealtimeSearchService initialized
+2025-10-19 00:13:32,455 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:32,487 - JarvisAI - INFO - config.py:138 - DecisionService initialized
+2025-10-19 00:13:32,488 - JarvisAI - INFO - config.py:138 - EventBus initialized
+2025-10-19 00:13:32,489 - JarvisAI - INFO - config.py:138 - AutomationService initialized for Darwin
+2025-10-19 00:13:32,489 - JarvisAI - DEBUG - config.py:132 - Subscribed to system_shutdown
+2025-10-19 00:13:32,489 - JarvisAI - DEBUG - config.py:132 - Subscribed to microphone_toggle
+2025-10-19 00:13:32,489 - JarvisAI - DEBUG - config.py:132 - Assistant status: Ready
+2025-10-19 00:13:32,490 - JarvisAI - DEBUG - config.py:132 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:13:32,493 - JarvisAI - DEBUG - config.py:132 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:13:32,493 - JarvisAI - DEBUG - config.py:132 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Responses.data
+2025-10-19 00:13:32,493 - JarvisAI - INFO - config.py:138 - File system initialized
+2025-10-19 00:13:32,493 - JarvisAI - INFO - config.py:138 - Application initialized successfully
+2025-10-19 00:13:32,577 - JarvisAI - DEBUG - config.py:132 - Emitting system_ready to 0 subscribers
+2025-10-19 00:13:32,577 - JarvisAI - INFO - config.py:138 - JarvisAI application started successfully
+2025-10-19 00:13:33,042 - JarvisAI - DEBUG - config.py:132 - Added assistant message: Hello Parrv Luthra! I'm ready to help you. Click t...
+2025-10-19 00:37:41,484 - JarvisAI - INFO - config.py:142 - JarvisAI Core System Initialized
+2025-10-19 00:37:41,487 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:41,697 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:41,779 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:37:41,853 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:41,866 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:37:42,279 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:42,333 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:37:42,355 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:42,355 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:37:42,373 - JarvisAI - INFO - config.py:142 - ThemeManager initialized with light theme
+2025-10-19 00:37:42,379 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:42,379 - JarvisAI - INFO - config.py:142 - JarvisController initialized
+2025-10-19 00:37:42,380 - JarvisAI - INFO - config.py:142 - Starting JarvisAI application...
+2025-10-19 00:37:42,719 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:42,884 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:42,889 - JarvisAI - DEBUG - config.py:136 - Added user message: Hello, how are you?...
+2025-10-19 00:37:42,890 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Nice to meet you, Parrv Luthra! I'm functioning pe...
+2025-10-19 00:37:42,890 - JarvisAI - DEBUG - config.py:136 - Subscribed to response_display
+2025-10-19 00:37:42,890 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_start
+2025-10-19 00:37:42,890 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_end
+2025-10-19 00:37:42,895 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:42,925 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:37:42,925 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:37:42,931 - JarvisAI - DEBUG - config.py:136 - Subscribed to microphone_toggle
+2025-10-19 00:37:42,931 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:37:42,931 - JarvisAI - INFO - config.py:142 - Modern main window initialized
+2025-10-19 00:37:42,931 - JarvisAI - INFO - config.py:142 - Voice input monitoring started
+2025-10-19 00:37:42,932 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:42,947 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:37:42,948 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:42,960 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:37:42,961 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:42,974 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:37:42,975 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:37:42,975 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:37:42,975 - JarvisAI - DEBUG - config.py:136 - Subscribed to system_shutdown
+2025-10-19 00:37:42,975 - JarvisAI - DEBUG - config.py:136 - Subscribed to microphone_toggle
+2025-10-19 00:37:42,975 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:37:42,976 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:37:42,976 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:37:42,976 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Responses.data
+2025-10-19 00:37:42,976 - JarvisAI - INFO - config.py:142 - File system initialized
+2025-10-19 00:37:42,976 - JarvisAI - INFO - config.py:142 - Application initialized successfully
+2025-10-19 00:37:43,061 - JarvisAI - DEBUG - config.py:136 - Emitting system_ready to 0 subscribers
+2025-10-19 00:37:43,061 - JarvisAI - INFO - config.py:142 - JarvisAI application started successfully
+2025-10-19 00:37:44,204 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Hello Parrv Luthra! I'm ready to help you. Click t...
+2025-10-19 00:37:46,134 - JarvisAI - INFO - config.py:142 - Theme changed to: dark
+2025-10-19 00:37:46,165 - JarvisAI - INFO - config.py:142 - Theme toggled to: dark
+2025-10-19 00:38:23,543 - JarvisAI - INFO - config.py:142 - Theme changed to: light
+2025-10-19 00:38:23,579 - JarvisAI - INFO - config.py:142 - Theme toggled to: light
+2025-10-19 00:38:24,252 - JarvisAI - INFO - config.py:142 - Theme changed to: dark
+2025-10-19 00:38:24,273 - JarvisAI - INFO - config.py:142 - Theme toggled to: dark
+2025-10-19 00:38:25,539 - JarvisAI - INFO - config.py:142 - Theme changed to: light
+2025-10-19 00:38:25,560 - JarvisAI - INFO - config.py:142 - Theme toggled to: light
+2025-10-19 00:38:25,857 - JarvisAI - INFO - config.py:142 - Theme changed to: dark
+2025-10-19 00:38:25,887 - JarvisAI - INFO - config.py:142 - Theme toggled to: dark
+2025-10-19 00:39:15,586 - JarvisAI - INFO - config.py:138 - Application closing...
+2025-10-19 00:39:15,596 - JarvisAI - DEBUG - config.py:132 - Emitting system_shutdown to 0 subscribers
+2025-10-19 00:40:55,915 - JarvisAI - INFO - config.py:142 - JarvisAI Core System Initialized
+2025-10-19 00:40:55,917 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,139 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,223 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:40:56,292 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,305 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:40:56,452 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,465 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:40:56,466 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,466 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:40:56,481 - JarvisAI - INFO - config.py:142 - ThemeManager initialized with light theme
+2025-10-19 00:40:56,483 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,483 - JarvisAI - INFO - config.py:142 - JarvisController initialized
+2025-10-19 00:40:56,483 - JarvisAI - INFO - config.py:142 - Starting JarvisAI application...
+2025-10-19 00:40:56,745 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,759 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,796 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:40:56,796 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:40:56,934 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,938 - JarvisAI - DEBUG - config.py:136 - Added user message: Hello, how are you?...
+2025-10-19 00:40:56,939 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Nice to meet you, Parrv Luthra! I'm functioning pe...
+2025-10-19 00:40:56,939 - JarvisAI - DEBUG - config.py:136 - Subscribed to response_display
+2025-10-19 00:40:56,939 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_start
+2025-10-19 00:40:56,939 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_end
+2025-10-19 00:40:56,944 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,944 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:40:56,944 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:40:56,950 - JarvisAI - DEBUG - config.py:136 - Subscribed to microphone_toggle
+2025-10-19 00:40:56,950 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:40:56,950 - JarvisAI - INFO - config.py:142 - Modern main window initialized
+2025-10-19 00:40:56,951 - JarvisAI - INFO - config.py:142 - Voice input monitoring started
+2025-10-19 00:40:56,951 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,965 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:40:56,965 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,977 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:40:56,978 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,991 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:40:56,991 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:40:56,991 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:40:56,991 - JarvisAI - DEBUG - config.py:136 - Subscribed to system_shutdown
+2025-10-19 00:40:56,991 - JarvisAI - DEBUG - config.py:136 - Subscribed to microphone_toggle
+2025-10-19 00:40:56,992 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:40:56,992 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:40:56,992 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:40:56,992 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Responses.data
+2025-10-19 00:40:56,992 - JarvisAI - INFO - config.py:142 - File system initialized
+2025-10-19 00:40:56,992 - JarvisAI - INFO - config.py:142 - Application initialized successfully
+2025-10-19 00:40:57,057 - JarvisAI - DEBUG - config.py:136 - Emitting system_ready to 0 subscribers
+2025-10-19 00:40:57,057 - JarvisAI - INFO - config.py:142 - JarvisAI application started successfully
+2025-10-19 00:40:57,470 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Hello Parrv Luthra! I'm ready to help you. Click t...
+2025-10-19 00:41:04,911 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:41:04,912 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:41:11,146 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:41:11,148 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:41:11,567 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:41:11,567 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:41:19,427 - JarvisAI - INFO - config.py:142 - Switched to chat screen
+2025-10-19 00:41:24,062 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:41:24,062 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:41:25,807 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:41:25,808 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:41:31,232 - JarvisAI - INFO - config.py:142 - Theme changed to: dark
+2025-10-19 00:41:31,268 - JarvisAI - INFO - config.py:142 - Theme toggled to: dark
+2025-10-19 00:41:35,898 - JarvisAI - INFO - config.py:142 - Theme changed to: light
+2025-10-19 00:41:35,932 - JarvisAI - INFO - config.py:142 - Theme toggled to: light
+2025-10-19 00:41:36,341 - JarvisAI - INFO - config.py:142 - Theme changed to: dark
+2025-10-19 00:41:36,372 - JarvisAI - INFO - config.py:142 - Theme toggled to: dark
+2025-10-19 00:41:38,205 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:41:38,206 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:41:40,120 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:41:40,120 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:42:00,957 - JarvisAI - INFO - config.py:142 - Application closing...
+2025-10-19 00:42:00,964 - JarvisAI - DEBUG - config.py:136 - Emitting system_shutdown to 0 subscribers
+2025-10-19 00:42:39,234 - JarvisAI - INFO - config.py:142 - Application closing...
+2025-10-19 00:42:39,242 - JarvisAI - DEBUG - config.py:136 - Emitting system_shutdown to 0 subscribers
+2025-10-19 00:43:58,548 - JarvisAI - INFO - config.py:142 - JarvisAI Core System Initialized
+2025-10-19 00:44:25,989 - JarvisAI - INFO - config.py:142 - JarvisAI Core System Initialized
+2025-10-19 00:44:25,991 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:26,218 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:26,297 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:44:26,368 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:26,381 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:44:26,543 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:26,556 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:44:26,557 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:26,557 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:44:26,572 - JarvisAI - INFO - config.py:142 - ThemeManager initialized with light theme
+2025-10-19 00:44:26,578 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:26,578 - JarvisAI - INFO - config.py:142 - JarvisController initialized
+2025-10-19 00:44:26,578 - JarvisAI - INFO - config.py:142 - Starting JarvisAI application...
+2025-10-19 00:44:26,865 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:26,889 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:26,929 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:44:26,929 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:44:27,070 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:27,074 - JarvisAI - DEBUG - config.py:136 - Added user message: Hello, how are you?...
+2025-10-19 00:44:27,074 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Nice to meet you, Parrv Luthra! I'm functioning pe...
+2025-10-19 00:44:27,074 - JarvisAI - DEBUG - config.py:136 - Subscribed to response_display
+2025-10-19 00:44:27,074 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_start
+2025-10-19 00:44:27,075 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_end
+2025-10-19 00:44:27,080 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:27,081 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:44:27,081 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:44:27,087 - JarvisAI - DEBUG - config.py:136 - Subscribed to microphone_toggle
+2025-10-19 00:44:27,087 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:44:27,087 - JarvisAI - INFO - config.py:142 - Modern main window initialized
+2025-10-19 00:44:27,087 - JarvisAI - INFO - config.py:142 - Voice input monitoring started
+2025-10-19 00:44:27,088 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:27,101 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:44:27,102 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:27,115 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:44:27,115 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:27,128 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:44:27,128 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:44:27,128 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:44:27,128 - JarvisAI - DEBUG - config.py:136 - Subscribed to system_shutdown
+2025-10-19 00:44:27,128 - JarvisAI - DEBUG - config.py:136 - Subscribed to microphone_toggle
+2025-10-19 00:44:27,128 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:44:27,129 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:44:27,129 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:44:27,129 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Responses.data
+2025-10-19 00:44:27,129 - JarvisAI - INFO - config.py:142 - File system initialized
+2025-10-19 00:44:27,129 - JarvisAI - INFO - config.py:142 - Application initialized successfully
+2025-10-19 00:44:27,188 - JarvisAI - DEBUG - config.py:136 - Emitting system_ready to 0 subscribers
+2025-10-19 00:44:27,188 - JarvisAI - INFO - config.py:142 - JarvisAI application started successfully
+2025-10-19 00:44:27,621 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Hello Parrv Luthra! I'm ready to help you. Click t...
+2025-10-19 00:44:30,391 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:44:30,392 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:44:30,392 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:44:30,392 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:44:30,429 - JarvisAI - INFO - config.py:142 - Simulated voice input: Play some relaxing music
+2025-10-19 00:44:30,430 - JarvisAI - INFO - config.py:142 - Received voice input: Play some relaxing music
+2025-10-19 00:44:30,430 - JarvisAI - DEBUG - config.py:136 - Assistant status: Processing...
+2025-10-19 00:44:30,430 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:44:30,430 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 0 subscribers
+2025-10-19 00:44:30,430 - JarvisAI - DEBUG - config.py:136 - Emitting query_received to 0 subscribers
+2025-10-19 00:44:30,430 - JarvisAI - INFO - config.py:142 - Processing query directly: Play some relaxing music
+2025-10-19 00:44:30,430 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:44:30,430 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:44:30,430 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:44:30,431 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:44:30,431 - JarvisAI - INFO - config.py:142 - Direct response sent: Thanks for your message: 'Play some relaxing music'. I'm analyzing what you need.
+2025-10-19 00:44:36,826 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:44:36,826 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:44:36,826 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:44:36,826 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:44:40,095 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:44:40,095 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:44:40,095 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:44:40,095 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:44:40,431 - JarvisAI - INFO - config.py:142 - Simulated voice input: Play some relaxing music
+2025-10-19 00:44:40,431 - JarvisAI - INFO - config.py:142 - Received voice input: Play some relaxing music
+2025-10-19 00:44:40,432 - JarvisAI - DEBUG - config.py:136 - Assistant status: Processing...
+2025-10-19 00:44:40,433 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:44:40,433 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 0 subscribers
+2025-10-19 00:44:40,433 - JarvisAI - DEBUG - config.py:136 - Emitting query_received to 0 subscribers
+2025-10-19 00:44:40,433 - JarvisAI - INFO - config.py:142 - Processing query directly: Play some relaxing music
+2025-10-19 00:44:40,433 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:44:40,433 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:44:40,433 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:44:40,433 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:44:40,433 - JarvisAI - INFO - config.py:142 - Direct response sent: I heard you say: 'Play some relaxing music'. I'm working on processing this request!
+2025-10-19 00:44:41,548 - JarvisAI - INFO - config.py:142 - Switched to chat screen
+2025-10-19 00:44:45,032 - JarvisAI - INFO - config.py:142 - Theme changed to: dark
+2025-10-19 00:44:45,055 - JarvisAI - INFO - config.py:142 - Theme toggled to: dark
+2025-10-19 00:44:46,346 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:44:46,347 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:44:46,347 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:44:46,347 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:44:46,889 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:44:46,889 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:44:46,889 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:44:46,889 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:44:47,262 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:44:47,262 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:44:47,263 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:44:47,263 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:44:47,430 - JarvisAI - INFO - config.py:142 - Simulated voice input: What's the latest news?
+2025-10-19 00:44:47,430 - JarvisAI - INFO - config.py:142 - Received voice input: What's the latest news?
+2025-10-19 00:44:47,430 - JarvisAI - DEBUG - config.py:136 - Assistant status: Processing...
+2025-10-19 00:44:47,432 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:44:47,433 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 0 subscribers
+2025-10-19 00:44:47,433 - JarvisAI - DEBUG - config.py:136 - Emitting query_received to 0 subscribers
+2025-10-19 00:44:47,433 - JarvisAI - INFO - config.py:142 - Processing query directly: What's the latest news?
+2025-10-19 00:44:47,433 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:44:47,433 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:44:47,433 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:44:47,434 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:44:47,434 - JarvisAI - INFO - config.py:142 - Direct response sent: I understand you want: 'What's the latest news?'. Let me work on that for you.
+2025-10-19 00:44:52,429 - JarvisAI - INFO - config.py:142 - Application closing...
+2025-10-19 00:44:52,430 - JarvisAI - DEBUG - config.py:136 - Emitting system_shutdown to 0 subscribers
+2025-10-19 00:51:22,712 - JarvisAI - INFO - config.py:142 - JarvisAI Core System Initialized
+2025-10-19 00:51:22,713 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:51:22,924 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:51:23,020 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:51:23,086 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:51:23,099 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:51:23,238 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:51:23,250 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:51:23,252 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:51:23,252 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:51:23,263 - JarvisAI - INFO - config.py:142 - ThemeManager initialized with light theme
+2025-10-19 00:52:23,642 - JarvisAI - INFO - config.py:142 - JarvisAI Core System Initialized
+2025-10-19 00:52:23,643 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:23,875 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:23,977 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:52:24,076 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,090 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:52:24,275 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,288 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:52:24,289 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,289 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:52:24,301 - JarvisAI - INFO - config.py:142 - ThemeManager initialized with light theme
+2025-10-19 00:52:24,303 - JarvisAI - WARNING - config.py:148 - Speech recognition not available, using file simulation
+2025-10-19 00:52:24,304 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,304 - JarvisAI - INFO - config.py:142 - JarvisController initialized
+2025-10-19 00:52:24,304 - JarvisAI - INFO - config.py:142 - Starting JarvisAI application...
+2025-10-19 00:52:24,674 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,688 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,737 - JarvisAI - DEBUG - config.py:136 - Added user message: Hello, how are you?...
+2025-10-19 00:52:24,738 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Nice to meet you, Parrv Luthra! I'm functioning pe...
+2025-10-19 00:52:24,738 - JarvisAI - DEBUG - config.py:136 - Subscribed to response_display
+2025-10-19 00:52:24,738 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_start
+2025-10-19 00:52:24,738 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_end
+2025-10-19 00:52:24,752 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,788 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:52:24,788 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:52:24,791 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,792 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:52:24,792 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:52:24,792 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,793 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:52:24,793 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:52:24,794 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,794 - JarvisAI - DEBUG - config.py:136 - Added user message: Hello, how are you?...
+2025-10-19 00:52:24,795 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Nice to meet you, Parrv Luthra! I'm functioning pe...
+2025-10-19 00:52:24,795 - JarvisAI - DEBUG - config.py:136 - Subscribed to response_display
+2025-10-19 00:52:24,795 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_start
+2025-10-19 00:52:24,795 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_end
+2025-10-19 00:52:24,797 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,797 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:52:24,797 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:52:24,800 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:52:24,800 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:52:24,800 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:52:24,800 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_start
+2025-10-19 00:52:24,800 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_end
+2025-10-19 00:52:24,800 - JarvisAI - DEBUG - config.py:136 - Subscribed to query_received
+2025-10-19 00:52:24,804 - JarvisAI - INFO - config.py:142 - Ultimate main window initialized
+2025-10-19 00:52:24,804 - JarvisAI - INFO - config.py:142 - Voice input monitoring started
+2025-10-19 00:52:24,804 - JarvisAI - INFO - config.py:142 - Using file simulation for voice input
+2025-10-19 00:52:24,805 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,818 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:52:24,819 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,832 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:52:24,833 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,845 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:52:24,846 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:24,846 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:52:24,846 - JarvisAI - DEBUG - config.py:136 - Subscribed to system_shutdown
+2025-10-19 00:52:24,846 - JarvisAI - DEBUG - config.py:136 - Subscribed to microphone_toggle
+2025-10-19 00:52:24,846 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:52:24,847 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:24,847 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:24,847 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Responses.data
+2025-10-19 00:52:24,847 - JarvisAI - INFO - config.py:142 - File system initialized
+2025-10-19 00:52:24,847 - JarvisAI - INFO - config.py:142 - Application initialized successfully
+2025-10-19 00:52:25,026 - JarvisAI - DEBUG - config.py:136 - Emitting system_ready to 0 subscribers
+2025-10-19 00:52:25,026 - JarvisAI - INFO - config.py:142 - JarvisAI application started successfully
+2025-10-19 00:52:25,749 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Hello Parrv Luthra! I'm ready to help you. Click t...
+2025-10-19 00:52:25,751 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Hello Parrv Luthra! I'm ready to help you. Click t...
+2025-10-19 00:52:28,911 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:28,911 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:52:28,911 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:52:28,912 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:52:28,929 - JarvisAI - INFO - config.py:142 - Simulated voice input: How are you doing today?
+2025-10-19 00:52:28,930 - JarvisAI - INFO - config.py:142 - Received voice input: How are you doing today?
+2025-10-19 00:52:28,930 - JarvisAI - DEBUG - config.py:136 - Assistant status: Processing...
+2025-10-19 00:52:28,930 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:28,930 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 0 subscribers
+2025-10-19 00:52:28,930 - JarvisAI - DEBUG - config.py:136 - Emitting query_received to 0 subscribers
+2025-10-19 00:52:28,930 - JarvisAI - INFO - config.py:142 - Processing query with full AI: How are you doing today?
+2025-10-19 00:52:28,930 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:52:28,930 - JarvisAI - DEBUG - config.py:136 - Emitting processing_start to 0 subscribers
+2025-10-19 00:52:28,932 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:28,962 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:52:28,963 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:28,982 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:52:28,982 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:28,998 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:52:28,998 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:28,998 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:52:28,998 - JarvisAI - ERROR - config.py:154 - Full AI process error: 'DecisionService' object has no attribute 'analyze_query'
+2025-10-19 00:52:28,999 - JarvisAI - INFO - config.py:142 - Processing query: How are you doing today?...
+2025-10-19 00:52:29,296 - JarvisAI - DEBUG - config.py:136 - Successfully wrote JSON to /Users/parrvluthra/Desktop/JarvisAI/Data/ChatLog.json
+2025-10-19 00:52:29,296 - JarvisAI - INFO - config.py:142 - Generated response: I'm doing great, Parrv. It's a lovely Sunday morni...
+2025-10-19 00:52:29,297 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:52:29,297 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:52:29,297 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:29,297 - JarvisAI - DEBUG - config.py:136 - Emitting processing_end to 0 subscribers
+2025-10-19 00:52:29,433 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:29,433 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:52:29,433 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:52:29,433 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:52:29,905 - JarvisAI - INFO - config.py:142 - Switched to Voice-only mode
+2025-10-19 00:52:29,906 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: voice
+2025-10-19 00:52:30,699 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:30,699 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:52:30,699 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:52:30,700 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:52:30,930 - JarvisAI - INFO - config.py:142 - Simulated voice input: Play some relaxing music
+2025-10-19 00:52:30,930 - JarvisAI - INFO - config.py:142 - Received voice input: Play some relaxing music
+2025-10-19 00:52:30,931 - JarvisAI - DEBUG - config.py:136 - Assistant status: Processing...
+2025-10-19 00:52:30,931 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:30,932 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 0 subscribers
+2025-10-19 00:52:30,932 - JarvisAI - DEBUG - config.py:136 - Emitting query_received to 0 subscribers
+2025-10-19 00:52:30,932 - JarvisAI - INFO - config.py:142 - Processing query with full AI: Play some relaxing music
+2025-10-19 00:52:30,932 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:52:30,932 - JarvisAI - DEBUG - config.py:136 - Emitting processing_start to 0 subscribers
+2025-10-19 00:52:30,937 - JarvisAI - ERROR - config.py:154 - Full AI process error: 'DecisionService' object has no attribute 'analyze_query'
+2025-10-19 00:52:30,938 - JarvisAI - INFO - config.py:142 - Processing query: Play some relaxing music...
+2025-10-19 00:52:31,198 - JarvisAI - DEBUG - config.py:136 - Successfully wrote JSON to /Users/parrvluthra/Desktop/JarvisAI/Data/ChatLog.json
+2025-10-19 00:52:31,198 - JarvisAI - INFO - config.py:142 - Generated response: I'd be happy to help you unwind with some soothing...
+2025-10-19 00:52:31,198 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:52:31,199 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:52:31,199 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:31,200 - JarvisAI - DEBUG - config.py:136 - Emitting processing_end to 0 subscribers
+2025-10-19 00:52:34,209 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:34,209 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:52:34,209 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:52:34,209 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:52:37,338 - JarvisAI - INFO - config.py:142 - Switched to Chat-only mode
+2025-10-19 00:52:37,339 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: chat
+2025-10-19 00:52:38,385 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:52:38,385 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: hybrid
+2025-10-19 00:52:41,093 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:52:41,094 - JarvisAI - DEBUG - config.py:136 - Emitting query_received to 0 subscribers
+2025-10-19 00:52:41,095 - JarvisAI - INFO - config.py:142 - Text message sent: hello
+2025-10-19 00:52:43,124 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:43,124 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:52:43,124 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:52:43,125 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:52:43,430 - JarvisAI - INFO - config.py:142 - Simulated voice input: What's the latest news?
+2025-10-19 00:52:43,430 - JarvisAI - INFO - config.py:142 - Received voice input: What's the latest news?
+2025-10-19 00:52:43,430 - JarvisAI - DEBUG - config.py:136 - Assistant status: Processing...
+2025-10-19 00:52:43,431 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:43,431 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 0 subscribers
+2025-10-19 00:52:43,431 - JarvisAI - DEBUG - config.py:136 - Emitting query_received to 0 subscribers
+2025-10-19 00:52:43,432 - JarvisAI - INFO - config.py:142 - Processing query with full AI: What's the latest news?
+2025-10-19 00:52:43,432 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:52:43,432 - JarvisAI - DEBUG - config.py:136 - Emitting processing_start to 0 subscribers
+2025-10-19 00:52:43,433 - JarvisAI - ERROR - config.py:154 - Full AI process error: 'DecisionService' object has no attribute 'analyze_query'
+2025-10-19 00:52:43,434 - JarvisAI - INFO - config.py:142 - Processing query: What's the latest news?...
+2025-10-19 00:52:44,039 - JarvisAI - DEBUG - config.py:136 - Successfully wrote JSON to /Users/parrvluthra/Desktop/JarvisAI/Data/ChatLog.json
+2025-10-19 00:52:44,039 - JarvisAI - INFO - config.py:142 - Generated response: I can keep you updated on the latest news from aro...
+2025-10-19 00:52:44,039 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:52:44,040 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:52:44,040 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:44,040 - JarvisAI - DEBUG - config.py:136 - Emitting processing_end to 0 subscribers
+2025-10-19 00:52:44,292 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:44,292 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:52:44,292 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:52:44,292 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:52:50,161 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:50,161 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:52:50,161 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:52:50,161 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:52:50,429 - JarvisAI - INFO - config.py:142 - Simulated voice input: Open Chrome browser
+2025-10-19 00:52:50,430 - JarvisAI - INFO - config.py:142 - Received voice input: Open Chrome browser
+2025-10-19 00:52:50,430 - JarvisAI - DEBUG - config.py:136 - Assistant status: Processing...
+2025-10-19 00:52:50,431 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:50,431 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 0 subscribers
+2025-10-19 00:52:50,431 - JarvisAI - DEBUG - config.py:136 - Emitting query_received to 0 subscribers
+2025-10-19 00:52:50,431 - JarvisAI - INFO - config.py:142 - Processing query with full AI: Open Chrome browser
+2025-10-19 00:52:50,432 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:52:50,432 - JarvisAI - DEBUG - config.py:136 - Emitting processing_start to 0 subscribers
+2025-10-19 00:52:50,432 - JarvisAI - ERROR - config.py:154 - Full AI process error: 'DecisionService' object has no attribute 'analyze_query'
+2025-10-19 00:52:50,433 - JarvisAI - INFO - config.py:142 - Processing query: Open Chrome browser...
+2025-10-19 00:52:50,764 - JarvisAI - INFO - config.py:142 - Switched to Voice-only mode
+2025-10-19 00:52:50,765 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: voice
+2025-10-19 00:52:50,790 - JarvisAI - DEBUG - config.py:136 - Successfully wrote JSON to /Users/parrvluthra/Desktop/JarvisAI/Data/ChatLog.json
+2025-10-19 00:52:50,791 - JarvisAI - INFO - config.py:142 - Generated response: However, as a text-based AI assistant, I don't hav...
+2025-10-19 00:52:50,791 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:52:50,791 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:52:50,791 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:50,791 - JarvisAI - DEBUG - config.py:136 - Emitting processing_end to 0 subscribers
+2025-10-19 00:52:51,404 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:51,404 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:52:51,404 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:52:51,405 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:52:54,474 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:54,474 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:52:54,475 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:52:54,475 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:52:56,656 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:52:56,657 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:52:56,657 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:52:56,657 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:52:56,929 - JarvisAI - INFO - config.py:142 - Simulated voice input: Open Chrome browser
+2025-10-19 00:52:56,930 - JarvisAI - INFO - config.py:142 - Received voice input: Open Chrome browser
+2025-10-19 00:52:56,930 - JarvisAI - DEBUG - config.py:136 - Assistant status: Processing...
+2025-10-19 00:52:56,931 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:56,931 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 0 subscribers
+2025-10-19 00:52:56,931 - JarvisAI - DEBUG - config.py:136 - Emitting query_received to 0 subscribers
+2025-10-19 00:52:56,931 - JarvisAI - INFO - config.py:142 - Processing query with full AI: Open Chrome browser
+2025-10-19 00:52:56,932 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:52:56,932 - JarvisAI - DEBUG - config.py:136 - Emitting processing_start to 0 subscribers
+2025-10-19 00:52:56,933 - JarvisAI - ERROR - config.py:154 - Full AI process error: 'DecisionService' object has no attribute 'analyze_query'
+2025-10-19 00:52:56,933 - JarvisAI - INFO - config.py:142 - Processing query: Open Chrome browser...
+2025-10-19 00:52:57,282 - JarvisAI - DEBUG - config.py:136 - Successfully wrote JSON to /Users/parrvluthra/Desktop/JarvisAI/Data/ChatLog.json
+2025-10-19 00:52:57,282 - JarvisAI - INFO - config.py:142 - Generated response: I can simulate a command for you to open a web bro...
+2025-10-19 00:52:57,283 - JarvisAI - DEBUG - config.py:136 - Emitting response_display to 0 subscribers
+2025-10-19 00:52:57,283 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:52:57,284 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:52:57,284 - JarvisAI - DEBUG - config.py:136 - Emitting processing_end to 0 subscribers
+2025-10-19 00:53:02,389 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:53:02,390 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: hybrid
+2025-10-19 00:53:06,063 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:53:06,063 - JarvisAI - DEBUG - config.py:136 - Emitting query_received to 0 subscribers
+2025-10-19 00:53:06,063 - JarvisAI - INFO - config.py:142 - Text message sent: hello
+2025-10-19 00:53:09,785 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:53:09,785 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:53:09,785 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:53:09,786 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:53:16,235 - JarvisAI - INFO - config.py:142 - Switched to Voice-only mode
+2025-10-19 00:53:16,236 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: voice
+2025-10-19 00:53:17,844 - JarvisAI - INFO - config.py:142 - Ultimate application closing...
+2025-10-19 00:53:17,844 - JarvisAI - DEBUG - config.py:136 - Emitting system_shutdown to 0 subscribers
+2025-10-19 00:56:19,275 - JarvisAI - INFO - config.py:142 - JarvisAI Core System Initialized
+2025-10-19 00:56:19,276 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:19,459 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:19,536 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:56:19,602 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:19,615 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:56:19,750 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:19,762 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:56:19,763 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:19,763 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:56:19,775 - JarvisAI - INFO - config.py:142 - ThemeManager initialized with light theme
+2025-10-19 00:56:19,852 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:19,852 - JarvisAI - INFO - config.py:142 - JarvisController initialized
+2025-10-19 00:56:19,852 - JarvisAI - INFO - config.py:142 - Starting JarvisAI application...
+2025-10-19 00:56:20,077 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:20,085 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:20,114 - JarvisAI - DEBUG - config.py:136 - Added user message: How are you doing today?...
+2025-10-19 00:56:20,115 - JarvisAI - DEBUG - config.py:136 - Added assistant message: I'm doing great, Parrv. It's a lovely Sunday morni...
+2025-10-19 00:56:20,115 - JarvisAI - DEBUG - config.py:136 - Added user message: Play some relaxing music...
+2025-10-19 00:56:20,116 - JarvisAI - DEBUG - config.py:136 - Added assistant message: I'd be happy to help you unwind with some soothing...
+2025-10-19 00:56:20,116 - JarvisAI - DEBUG - config.py:136 - Added user message: What's the latest news?...
+2025-10-19 00:56:20,117 - JarvisAI - DEBUG - config.py:136 - Added assistant message: I can keep you updated on the latest news from aro...
+2025-10-19 00:56:20,117 - JarvisAI - DEBUG - config.py:136 - Added user message: Open Chrome browser...
+2025-10-19 00:56:20,118 - JarvisAI - DEBUG - config.py:136 - Added assistant message: However, as a text-based AI assistant, I don't hav...
+2025-10-19 00:56:20,118 - JarvisAI - DEBUG - config.py:136 - Added user message: Open Chrome browser...
+2025-10-19 00:56:20,119 - JarvisAI - DEBUG - config.py:136 - Added assistant message: I can simulate a command for you to open a web bro...
+2025-10-19 00:56:20,119 - JarvisAI - DEBUG - config.py:136 - Subscribed to response_display
+2025-10-19 00:56:20,119 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_start
+2025-10-19 00:56:20,119 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_end
+2025-10-19 00:56:20,146 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:20,184 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:56:20,184 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:56:20,198 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:20,198 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:56:20,198 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:56:20,199 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:20,200 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:56:20,200 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:56:20,200 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:20,201 - JarvisAI - DEBUG - config.py:136 - Added user message: How are you doing today?...
+2025-10-19 00:56:20,201 - JarvisAI - DEBUG - config.py:136 - Added assistant message: I'm doing great, Parrv. It's a lovely Sunday morni...
+2025-10-19 00:56:20,202 - JarvisAI - DEBUG - config.py:136 - Added user message: Play some relaxing music...
+2025-10-19 00:56:20,203 - JarvisAI - DEBUG - config.py:136 - Added assistant message: I'd be happy to help you unwind with some soothing...
+2025-10-19 00:56:20,203 - JarvisAI - DEBUG - config.py:136 - Added user message: What's the latest news?...
+2025-10-19 00:56:20,204 - JarvisAI - DEBUG - config.py:136 - Added assistant message: I can keep you updated on the latest news from aro...
+2025-10-19 00:56:20,204 - JarvisAI - DEBUG - config.py:136 - Added user message: Open Chrome browser...
+2025-10-19 00:56:20,205 - JarvisAI - DEBUG - config.py:136 - Added assistant message: However, as a text-based AI assistant, I don't hav...
+2025-10-19 00:56:20,205 - JarvisAI - DEBUG - config.py:136 - Added user message: Open Chrome browser...
+2025-10-19 00:56:20,205 - JarvisAI - DEBUG - config.py:136 - Added assistant message: I can simulate a command for you to open a web bro...
+2025-10-19 00:56:20,206 - JarvisAI - DEBUG - config.py:136 - Subscribed to response_display
+2025-10-19 00:56:20,206 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_start
+2025-10-19 00:56:20,206 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_end
+2025-10-19 00:56:20,223 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:20,223 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:56:20,223 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:56:20,236 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:56:20,236 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_start
+2025-10-19 00:56:20,236 - JarvisAI - DEBUG - config.py:136 - Subscribed to voice_input_end
+2025-10-19 00:56:20,236 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_start
+2025-10-19 00:56:20,236 - JarvisAI - DEBUG - config.py:136 - Subscribed to processing_end
+2025-10-19 00:56:20,236 - JarvisAI - DEBUG - config.py:136 - Subscribed to query_received
+2025-10-19 00:56:20,269 - JarvisAI - INFO - config.py:142 - Ultimate main window initialized
+2025-10-19 00:56:21,275 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:25,473 - JarvisAI - INFO - config.py:142 - Calibrating microphone for ambient noise...
+2025-10-19 00:56:26,358 - JarvisAI - INFO - config.py:142 - Microphone calibrated successfully
+2025-10-19 00:56:26,482 - JarvisAI - INFO - config.py:142 - Real speech recognition initialized
+2025-10-19 00:56:26,488 - JarvisAI - INFO - config.py:142 - Real speech recognition available
+2025-10-19 00:56:26,489 - JarvisAI - INFO - config.py:142 - Started continuous speech recognition
+2025-10-19 00:56:26,489 - JarvisAI - INFO - config.py:142 - Voice input monitoring started
+2025-10-19 00:56:26,489 - JarvisAI - INFO - config.py:142 - Using advanced speech recognition
+2025-10-19 00:56:26,493 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:26,525 - JarvisAI - INFO - config.py:142 - ChatbotService initialized
+2025-10-19 00:56:26,526 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:26,544 - JarvisAI - INFO - config.py:142 - RealtimeSearchService initialized
+2025-10-19 00:56:26,545 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:26,568 - JarvisAI - INFO - config.py:142 - DecisionService initialized
+2025-10-19 00:56:26,569 - JarvisAI - INFO - config.py:142 - EventBus initialized
+2025-10-19 00:56:26,569 - JarvisAI - INFO - config.py:142 - AutomationService initialized for Darwin
+2025-10-19 00:56:26,570 - JarvisAI - DEBUG - config.py:136 - Subscribed to system_shutdown
+2025-10-19 00:56:26,570 - JarvisAI - DEBUG - config.py:136 - Subscribed to microphone_toggle
+2025-10-19 00:56:26,570 - JarvisAI - DEBUG - config.py:136 - Assistant status: Ready
+2025-10-19 00:56:26,570 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Status.data
+2025-10-19 00:56:26,571 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:56:26,571 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Responses.data
+2025-10-19 00:56:26,571 - JarvisAI - INFO - config.py:142 - File system initialized
+2025-10-19 00:56:26,571 - JarvisAI - INFO - config.py:142 - Application initialized successfully
+2025-10-19 00:56:26,877 - JarvisAI - DEBUG - config.py:136 - Emitting system_ready to 0 subscribers
+2025-10-19 00:56:26,878 - JarvisAI - INFO - config.py:142 - JarvisAI application started successfully
+2025-10-19 00:56:27,403 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Hello Parrv Luthra! I'm ready to help you. Click t...
+2025-10-19 00:56:27,404 - JarvisAI - DEBUG - config.py:136 - Added assistant message: Hello Parrv Luthra! I'm ready to help you. Click t...
+2025-10-19 00:56:29,705 - JarvisAI - INFO - config.py:142 - Switched to Voice-only mode
+2025-10-19 00:56:29,706 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: voice
+2025-10-19 00:56:32,585 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:56:32,585 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:56:32,585 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:56:32,585 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:56:39,532 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:56:39,537 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: hybrid
+2025-10-19 00:56:41,645 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:56:41,646 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:56:41,646 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:56:41,646 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:56:54,739 - JarvisAI - INFO - config.py:142 - Switched to Chat-only mode
+2025-10-19 00:56:54,740 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: chat
+2025-10-19 00:56:55,908 - JarvisAI - INFO - config.py:142 - Theme changed to: dark
+2025-10-19 00:56:56,021 - JarvisAI - INFO - config.py:142 - Theme toggled to: dark
+2025-10-19 00:56:56,634 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:56:56,634 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: hybrid
+2025-10-19 00:56:57,289 - JarvisAI - INFO - config.py:142 - Switched to Voice-only mode
+2025-10-19 00:56:57,289 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: voice
+2025-10-19 00:56:58,033 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:56:58,033 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: hybrid
+2025-10-19 00:56:58,819 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:56:58,819 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:56:58,819 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:56:58,820 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:57:04,875 - JarvisAI - INFO - config.py:142 - Switched to Voice-only mode
+2025-10-19 00:57:04,877 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: voice
+2025-10-19 00:57:08,331 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:57:08,331 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:57:08,331 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:57:08,332 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:57:09,121 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:57:09,122 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:57:09,122 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:57:09,122 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:57:12,448 - JarvisAI - INFO - config.py:142 - Theme changed to: light
+2025-10-19 00:57:12,574 - JarvisAI - INFO - config.py:142 - Theme toggled to: light
+2025-10-19 00:57:13,484 - JarvisAI - INFO - config.py:142 - Theme changed to: dark
+2025-10-19 00:57:13,609 - JarvisAI - INFO - config.py:142 - Theme toggled to: dark
+2025-10-19 00:57:17,818 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:57:17,818 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: hybrid
+2025-10-19 00:57:18,355 - JarvisAI - INFO - config.py:142 - Switched to Chat-only mode
+2025-10-19 00:57:18,355 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: chat
+2025-10-19 00:57:19,282 - JarvisAI - INFO - config.py:142 - Switched to Voice-only mode
+2025-10-19 00:57:19,283 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: voice
+2025-10-19 00:57:20,044 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:57:20,045 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:57:20,045 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:57:20,045 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:57:20,445 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:57:20,445 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:57:20,445 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:57:20,445 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:57:23,078 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:57:23,079 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: hybrid
+2025-10-19 00:57:24,620 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:57:24,620 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:57:24,620 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:57:24,620 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:57:24,967 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:57:24,967 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:57:24,967 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:57:24,967 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:57:26,233 - JarvisAI - INFO - config.py:142 - Switched to Chat-only mode
+2025-10-19 00:57:26,233 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: chat
+2025-10-19 00:57:26,811 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:57:26,811 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: hybrid
+2025-10-19 00:57:27,308 - JarvisAI - INFO - config.py:142 - Switched to Voice-only mode
+2025-10-19 00:57:27,308 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: voice
+2025-10-19 00:57:27,980 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:57:27,980 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:57:27,980 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:57:27,980 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:57:28,322 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:57:28,322 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:57:28,322 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:57:28,323 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:57:30,224 - JarvisAI - INFO - config.py:142 - Switched to Chat-only mode
+2025-10-19 00:57:30,224 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: chat
+2025-10-19 00:57:30,654 - JarvisAI - INFO - config.py:142 - Switched to Hybrid mode
+2025-10-19 00:57:30,654 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: hybrid
+2025-10-19 00:57:31,084 - JarvisAI - INFO - config.py:142 - Switched to Voice-only mode
+2025-10-19 00:57:31,084 - JarvisAI - INFO - config.py:142 - Interaction mode changed to: voice
+2025-10-19 00:57:31,842 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:57:31,842 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:57:31,842 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_end to 1 subscribers
+2025-10-19 00:57:31,843 - JarvisAI - INFO - config.py:142 - Microphone deactivated
+2025-10-19 00:57:32,171 - JarvisAI - DEBUG - config.py:136 - Successfully wrote to /Users/parrvluthra/Desktop/JarvisAI/Frontend/Files/Mic.data
+2025-10-19 00:57:32,172 - JarvisAI - DEBUG - config.py:136 - Emitting microphone_toggle to 0 subscribers
+2025-10-19 00:57:32,172 - JarvisAI - DEBUG - config.py:136 - Emitting voice_input_start to 1 subscribers
+2025-10-19 00:57:32,172 - JarvisAI - INFO - config.py:142 - Microphone activated
+2025-10-19 00:57:33,770 - JarvisAI - INFO - config.py:142 - Ultimate application closing...
+2025-10-19 00:57:33,771 - JarvisAI - DEBUG - config.py:136 - Emitting system_shutdown to 0 subscribers
+2025-10-19 01:04:36,148 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:04:36,150 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:04:36,381 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:04:36,392 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:04:37,542 | INFO | JARVIS | ✅ Text-to-Speech initialized
+2025-10-19 01:04:37,573 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:04:39,653 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:04:39,654 | INFO | JARVIS | ✅ Voice recognition initialized
+2025-10-19 01:04:39,761 | INFO | JARVIS | ✅ AI Brain initialized
+2025-10-19 01:04:39,761 | ERROR | JARVIS | Failed to load conversation: 'list' object has no attribute 'get'
+2025-10-19 01:04:39,796 | INFO | JARVIS | 🗣️ JARVIS: Good evening, sir. JARVIS is online and ready to assist.
+2025-10-19 01:04:39,972 | INFO | JARVIS | 🚀 JARVIS Application started
+2025-10-19 01:04:48,031 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:04:48,033 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:04:57,941 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:04:57,943 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:05:04,945 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:05:04,947 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:05:18,265 | INFO | JARVIS | 🧠 Processing: hey jarvis how are you
+2025-10-19 01:05:18,518 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-10-19 01:05:18,519 | ERROR | JARVIS | ❌ AI processing failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-10-19 01:05:30,829 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:05:30,830 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:05:44,939 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:05:44,940 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:06:03,684 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:06:03,685 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:07:45,476 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:07:45,483 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:07:58,622 | INFO | JARVIS | 🧠 Processing: hey jarvis how are you
+2025-10-19 01:07:58,763 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-10-19 01:07:58,766 | ERROR | JARVIS | ❌ AI processing failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-10-19 01:08:03,148 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:08:03,149 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:08:03,168 | ERROR | voice_recognition | Continuous listen error: This audio source is already inside a context manager
+2025-10-19 01:08:03,168 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:08:03,168 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:08:07,609 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:08:07,611 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:08:20,038 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:08:20,039 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:08:20,227 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:08:20,236 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:08:21,003 | INFO | JARVIS | ✅ Text-to-Speech initialized
+2025-10-19 01:08:21,015 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:08:23,079 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:08:23,080 | INFO | JARVIS | ✅ Voice recognition initialized
+2025-10-19 01:08:23,189 | INFO | JARVIS | ✅ AI Brain initialized
+2025-10-19 01:08:23,189 | INFO | JARVIS | 📚 Loaded 12 conversation entries
+2025-10-19 01:08:23,228 | INFO | JARVIS | 🗣️ JARVIS: Good evening, sir. JARVIS is online and ready to assist.
+2025-10-19 01:08:23,400 | INFO | JARVIS | 🚀 JARVIS Application started
+2025-10-19 01:08:31,066 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:08:31,067 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:08:54,860 | INFO | JARVIS | 🧠 Processing: hey jarvis how are you
+2025-10-19 01:08:55,375 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 01:08:55,399 | INFO | JARVIS | ✅ AI Response generated
+2025-10-19 01:09:01,346 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:09:01,346 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:09:53,689 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:09:53,691 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:09:53,830 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:09:53,908 | INFO | JARVIS | ✅ AI Brain initialized
+2025-10-19 01:09:53,908 | INFO | JARVIS | 📚 Loaded 13 conversation entries
+2025-10-19 01:09:53,908 | INFO | JARVIS | 🧠 Processing: Hello JARVIS
+2025-10-19 01:09:54,272 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 01:09:54,284 | INFO | JARVIS | ✅ AI Response generated
+2025-10-19 01:09:58,907 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:09:58,909 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:10:27,864 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:10:27,866 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:10:27,894 | ERROR | voice_recognition | Continuous listen error: This audio source is already inside a context manager
+2025-10-19 01:10:27,894 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:10:27,894 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:10:31,555 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:10:31,556 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:10:32,255 | ERROR | voice_recognition | Continuous listen error: This audio source is already inside a context manager
+2025-10-19 01:10:32,255 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:10:32,255 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:10:33,235 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:10:33,236 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:10:43,486 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:10:43,488 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:10:43,783 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:10:43,794 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:10:44,753 | INFO | JARVIS | ✅ Text-to-Speech initialized
+2025-10-19 01:10:44,761 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:10:45,965 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:10:45,965 | INFO | JARVIS | ✅ Voice recognition initialized
+2025-10-19 01:10:46,056 | INFO | JARVIS | ✅ AI Brain initialized
+2025-10-19 01:10:46,056 | INFO | JARVIS | 📚 Loaded 14 conversation entries
+2025-10-19 01:10:46,094 | INFO | JARVIS | 🗣️ JARVIS: Good evening, sir. JARVIS is online and ready to assist.
+2025-10-19 01:10:46,248 | INFO | JARVIS | 🚀 JARVIS Application started
+2025-10-19 01:10:52,814 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:10:52,814 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:10:57,655 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis how are you
+2025-10-19 01:10:57,656 | INFO | JARVIS | 👂 Voice input: hey Jarvis how are you
+2025-10-19 01:10:57,656 | INFO | JARVIS | 🎯 Processing voice command: Hey  how are you
+2025-10-19 01:10:57,659 | INFO | JARVIS | 🧠 Processing: Hey  how are you
+2025-10-19 01:10:58,007 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 01:10:58,021 | INFO | JARVIS | ✅ AI Response generated
+2025-10-19 01:11:08,502 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:11:08,504 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:11:15,850 | INFO | JARVIS | 🧠 Processing: how are you
+2025-10-19 01:11:16,170 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 01:11:16,174 | INFO | JARVIS | ✅ AI Response generated
+2025-10-19 01:13:59,193 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:13:59,196 | INFO | JARVIS | 🎤 Voice recognition active
+2025-10-19 01:14:02,655 | INFO | voice_recognition | 🗣️ Recognized: hello how are you
+2025-10-19 01:14:02,656 | INFO | JARVIS | 👂 Voice input: hello how are you
+2025-10-19 01:14:06,732 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:14:06,733 | INFO | JARVIS | 🔇 Voice recognition stopped
+2025-10-19 01:14:50,461 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:14:50,463 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:14:50,665 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:14:50,674 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:14:51,108 | INFO | JARVIS | ✅ AI Brain initialized
+2025-10-19 01:14:51,664 | INFO | JARVIS | ✅ Text-to-Speech initialized
+2025-10-19 01:14:51,671 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:14:52,841 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:14:52,841 | INFO | JARVIS | ✅ Voice recognition initialized
+2025-10-19 01:14:52,909 | INFO | JARVIS | 🗣️ JARVIS: Good evening, sir. JARVIS is online and ready to assist.
+2025-10-19 01:14:53,096 | INFO | JARVIS | 🚀 Working JARVIS Application started
+2025-10-19 01:15:00,032 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:15:03,831 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis how are you
+2025-10-19 01:15:03,832 | INFO | JARVIS | 👂 Voice input received: hey Jarvis how are you
+2025-10-19 01:15:03,832 | INFO | JARVIS | 🎯 Processing voice command: Hey  how are you
+2025-10-19 01:15:16,860 | INFO | voice_recognition | 🗣️ Recognized: operating within optimal parameters are all systems functioning within normal bounds I am ready to assist you with any tasks or enquiries you may have
+2025-10-19 01:15:16,861 | INFO | JARVIS | 👂 Voice input received: operating within optimal parameters are all systems functioning within normal bounds I am ready to assist you with any tasks or enquiries you may have
+2025-10-19 01:15:19,271 | INFO | voice_recognition | 🗣️ Recognized: Jarvis who is Pearl Luthra
+2025-10-19 01:15:19,272 | INFO | JARVIS | 👂 Voice input received: Jarvis who is Pearl Luthra
+2025-10-19 01:15:19,272 | INFO | JARVIS | 🎯 Processing voice command: Who is pearl luthra
+2025-10-19 01:15:27,347 | INFO | voice_recognition | 🗣️ Recognized: Jarvis
+2025-10-19 01:15:27,348 | INFO | JARVIS | 👂 Voice input received: Jarvis
+2025-10-19 01:15:31,075 | INFO | voice_recognition | 🗣️ Recognized: who is Parv Luthra
+2025-10-19 01:15:31,076 | INFO | JARVIS | 👂 Voice input received: who is Parv Luthra
+2025-10-19 01:15:39,317 | INFO | voice_recognition | 🗣️ Recognized: jarvis what time is it
+2025-10-19 01:15:39,318 | INFO | JARVIS | 👂 Voice input received: jarvis what time is it
+2025-10-19 01:15:39,318 | INFO | JARVIS | 🎯 Processing voice command: What time is it
+2025-10-19 01:15:43,508 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:15:44,608 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:15:49,147 | INFO | voice_recognition | 🗣️ Recognized: what time it is
+2025-10-19 01:15:49,147 | INFO | JARVIS | 👂 Voice input received: what time it is
+2025-10-19 01:15:56,003 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis
+2025-10-19 01:15:56,004 | INFO | JARVIS | 👂 Voice input received: hey Jarvis
+2025-10-19 01:15:56,004 | INFO | JARVIS | 🎯 Processing voice command: Hey
+2025-10-19 01:15:59,860 | INFO | voice_recognition | 🗣️ Recognized: what time it is
+2025-10-19 01:15:59,861 | INFO | JARVIS | 👂 Voice input received: what time it is
+2025-10-19 01:16:13,338 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis
+2025-10-19 01:16:13,339 | INFO | JARVIS | 👂 Voice input received: hey Jarvis
+2025-10-19 01:16:13,339 | INFO | JARVIS | 🎯 Processing voice command: Hey
+2025-10-19 01:16:17,909 | INFO | voice_recognition | 🗣️ Recognized: good day sir how may I assist you
+2025-10-19 01:16:17,911 | INFO | JARVIS | 👂 Voice input received: good day sir how may I assist you
+2025-10-19 01:16:21,402 | INFO | voice_recognition | 🗣️ Recognized: what can you do for me
+2025-10-19 01:16:21,403 | INFO | JARVIS | 👂 Voice input received: what can you do for me
+2025-10-19 01:16:39,871 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis tell me about artificial
+2025-10-19 01:16:39,872 | INFO | JARVIS | 👂 Voice input received: hey Jarvis tell me about artificial
+2025-10-19 01:16:39,872 | INFO | JARVIS | 🎯 Processing voice command: Hey  tell me about artificial
+2025-10-19 01:16:49,115 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis
+2025-10-19 01:16:49,116 | INFO | JARVIS | 👂 Voice input received: hey Jarvis
+2025-10-19 01:16:49,116 | INFO | JARVIS | 🎯 Processing voice command: Hey
+2025-10-19 01:16:50,650 | INFO | voice_recognition | 🗣️ Recognized: what can you do for me
+2025-10-19 01:16:50,651 | INFO | JARVIS | 👂 Voice input received: what can you do for me
+2025-10-19 01:16:58,919 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis what can you do for me
+2025-10-19 01:16:58,921 | INFO | JARVIS | 👂 Voice input received: hey Jarvis what can you do for me
+2025-10-19 01:16:58,922 | INFO | JARVIS | 🎯 Processing voice command: Hey  what can you do for me
+2025-10-19 01:18:31,221 | INFO | voice_recognition | 🗣️ Recognized: Alexa
+2025-10-19 01:18:31,225 | INFO | JARVIS | 👂 Voice input received: Alexa
+2025-10-19 01:18:38,531 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis what's up
+2025-10-19 01:18:38,533 | INFO | JARVIS | 👂 Voice input received: hey Jarvis what's up
+2025-10-19 01:18:38,533 | INFO | JARVIS | 🎯 Processing voice command: Hey  what's up
+2025-10-19 01:18:43,369 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis how are you
+2025-10-19 01:18:43,371 | INFO | JARVIS | 👂 Voice input received: hey Jarvis how are you
+2025-10-19 01:18:43,372 | INFO | JARVIS | 🎯 Processing voice command: Hey  how are you
+2025-10-19 01:18:50,164 | INFO | voice_recognition | 🗣️ Recognized: hi Jarvis
+2025-10-19 01:18:50,165 | INFO | JARVIS | 👂 Voice input received: hi Jarvis
+2025-10-19 01:18:50,165 | INFO | JARVIS | 🎯 Processing voice command: Hi
+2025-10-19 01:18:54,364 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:18:55,418 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis good morning sir how may I assist you today
+2025-10-19 01:18:55,418 | INFO | JARVIS | 👂 Voice input received: hey Jarvis good morning sir how may I assist you today
+2025-10-19 01:18:55,419 | INFO | JARVIS | 🎯 Processing voice command: Hey  good morning sir how may i assist you today
+2025-10-19 01:22:25,547 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:22:25,549 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:22:25,692 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:22:25,722 | INFO | JARVIS | ✅ Web scraping available
+2025-10-19 01:22:25,736 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:22:26,079 | INFO | JARVIS | ✅ AI Brain initialized
+2025-10-19 01:22:26,606 | INFO | JARVIS | ✅ Consistent Text-to-Speech initialized
+2025-10-19 01:22:26,614 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:22:27,796 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:22:27,800 | INFO | JARVIS | ✅ Voice recognition initialized
+2025-10-19 01:22:27,918 | INFO | JARVIS | 🗣️ JARVIS: Good evening, sir. JARVIS is online with full capabilities. I can search the web, control your Mac, and handle any task you require.
+2025-10-19 01:22:28,214 | INFO | JARVIS | 🚀 Ultimate JARVIS Application started
+2025-10-19 01:22:39,738 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:22:46,140 | INFO | voice_recognition | 🗣️ Recognized: who is per Luthra
+2025-10-19 01:22:46,141 | INFO | JARVIS | 👂 Voice input received: who is per Luthra
+2025-10-19 01:22:51,324 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis
+2025-10-19 01:22:51,325 | INFO | JARVIS | 👂 Voice input received: hey Jarvis
+2025-10-19 01:22:51,325 | INFO | JARVIS | 🎯 Processing voice command: Hey
+2025-10-19 01:22:51,336 | INFO | JARVIS | 🧠 Processing ultimate query: Hey
+2025-10-19 01:22:51,338 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'conversation', 'query': 'Hey'}
+2025-10-19 01:22:51,625 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 01:23:23,697 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:23:23,698 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:23:23,903 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:23:23,931 | INFO | JARVIS | ✅ Web scraping available
+2025-10-19 01:23:23,938 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:23:24,247 | INFO | JARVIS | ✅ AI Brain initialized
+2025-10-19 01:23:25,938 | INFO | JARVIS | ✅ Consistent Text-to-Speech initialized
+2025-10-19 01:23:25,951 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:23:27,172 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:23:27,173 | INFO | JARVIS | ✅ Voice recognition initialized
+2025-10-19 01:23:27,247 | INFO | JARVIS | 🗣️ JARVIS: Good evening, sir. JARVIS is online with full capabilities. I can search the web, control your Mac, and handle any task you require.
+2025-10-19 01:23:27,441 | INFO | JARVIS | 🚀 Ultimate JARVIS Application started
+2025-10-19 01:23:40,716 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:23:44,997 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis how are you
+2025-10-19 01:23:44,999 | INFO | JARVIS | 👂 Voice input received: hey Jarvis how are you
+2025-10-19 01:23:44,999 | INFO | JARVIS | 🎯 Processing voice command: Hey  how are you
+2025-10-19 01:23:45,019 | INFO | JARVIS | 🧠 Processing ultimate query: Hey  how are you
+2025-10-19 01:23:45,020 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'conversation', 'query': 'Hey  how are you'}
+2025-10-19 01:23:45,299 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 01:26:44,723 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:26:44,725 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:26:44,846 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:26:44,874 | INFO | JARVIS | ✅ Web scraping available
+2025-10-19 01:26:44,888 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:26:45,252 | INFO | JARVIS | ✅ AI Brain initialized
+2025-10-19 01:26:45,707 | INFO | JARVIS | ✅ Consistent Text-to-Speech initialized
+2025-10-19 01:26:45,714 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:26:46,914 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:26:46,915 | INFO | JARVIS | ✅ Voice recognition initialized
+2025-10-19 01:26:46,982 | INFO | JARVIS | 🗣️ JARVIS: Good evening, sir. JARVIS is online with full capabilities. I can search the web, control your Mac, and handle any task you require.
+2025-10-19 01:26:47,235 | INFO | JARVIS | 🚀 Ultimate JARVIS Application started
+2025-10-19 01:26:57,783 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:27:01,529 | INFO | voice_recognition | 🗣️ Recognized: how are you
+2025-10-19 01:27:01,530 | INFO | JARVIS | 👂 Voice input received: how are you
+2025-10-19 01:27:27,701 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis how are you
+2025-10-19 01:27:27,703 | INFO | JARVIS | 👂 Voice input received: hey Jarvis how are you
+2025-10-19 01:27:27,704 | INFO | JARVIS | 🎯 Processing voice command: Hey  how are you
+2025-10-19 01:27:27,720 | INFO | JARVIS | 🧠 Processing ultimate query: Hey  how are you
+2025-10-19 01:27:27,720 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'conversation', 'query': 'Hey  how are you'}
+2025-10-19 01:27:28,081 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 01:27:28,098 | INFO | JARVIS | 🗣️ JARVIS: Mr. Stark, I'm functioning within optimal parameters. My systems are running at peak efficiency, and I'm ready to assist you with any task or inquiry you may have. I've also been performing routine diagnostics and updating my vast database to ensure I remain up-to-date on the latest information. Would you like me to scan the news or perform a specific task for you, sir?
+2025-10-19 01:27:48,644 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis who is Parv luth
+2025-10-19 01:27:48,646 | INFO | JARVIS | 👂 Voice input received: hey Jarvis who is Parv luth
+2025-10-19 01:27:48,647 | INFO | JARVIS | 🎯 Processing voice command: Hey  who is parv luth
+2025-10-19 01:27:48,650 | INFO | JARVIS | 🧠 Processing ultimate query: Hey  who is parv luth
+2025-10-19 01:27:48,651 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'web_search', 'query': 'Hey  who is parv luth'}
+2025-10-19 01:27:48,651 | INFO | JARVIS | 🔍 Searching web for: Hey  who is parv luth
+2025-10-19 01:27:49,036 | INFO | JARVIS | 🗣️ JARVIS: I searched the web but couldn't find specific information about that topic.
+2025-10-19 01:27:54,036 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis
+2025-10-19 01:27:54,036 | INFO | JARVIS | 👂 Voice input received: hey Jarvis
+2025-10-19 01:27:54,037 | INFO | JARVIS | 🎯 Processing voice command: Hey
+2025-10-19 01:27:54,038 | INFO | JARVIS | 🧠 Processing ultimate query: Hey
+2025-10-19 01:27:54,039 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'conversation', 'query': 'Hey'}
+2025-10-19 01:27:54,279 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 01:27:54,285 | INFO | JARVIS | 🗣️ JARVIS: Good morning, Mr. Stark. I've been running diagnostics on the Arc Reactor and all systems appear to be functioning within normal parameters. Would you like me to brief you on the day's schedule or perhaps provide an update on Pepper's itinerary?
+2025-10-19 01:28:04,158 | INFO | voice_recognition | 🗣️ Recognized: all systems appear to be functioning within normal
+2025-10-19 01:28:04,159 | INFO | JARVIS | 👂 Voice input received: all systems appear to be functioning within normal
+2025-10-19 01:28:10,028 | INFO | voice_recognition | 🗣️ Recognized: would you like me to brief you on the day schedule or perhaps provide and update on paper size January
+2025-10-19 01:28:10,029 | INFO | JARVIS | 👂 Voice input received: would you like me to brief you on the day schedule or perhaps provide and update on paper size January
+2025-10-19 01:28:16,484 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis open Safari
+2025-10-19 01:28:16,485 | INFO | JARVIS | 👂 Voice input received: hey Jarvis open Safari
+2025-10-19 01:28:16,485 | INFO | JARVIS | 🎯 Processing voice command: Hey  open safari
+2025-10-19 01:28:16,490 | INFO | JARVIS | 🧠 Processing ultimate query: Hey  open safari
+2025-10-19 01:28:16,490 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'mac_automation', 'action': 'open_app', 'app': 'Safari'}
+2025-10-19 01:28:16,490 | INFO | JARVIS | 📱 Opening application: Safari
+2025-10-19 01:28:19,443 | INFO | JARVIS | 🗣️ JARVIS: Opening Safari for you, sir.
+Command executed successfully
+2025-10-19 01:28:27,024 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis who is Elon Musk
+2025-10-19 01:28:27,029 | INFO | JARVIS | 👂 Voice input received: hey Jarvis who is Elon Musk
+2025-10-19 01:28:27,030 | INFO | JARVIS | 🎯 Processing voice command: Hey  who is elon musk
+2025-10-19 01:28:27,046 | INFO | JARVIS | 🧠 Processing ultimate query: Hey  who is elon musk
+2025-10-19 01:28:27,046 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'web_search', 'query': 'Hey  who is elon musk'}
+2025-10-19 01:28:27,047 | INFO | JARVIS | 🔍 Searching web for: Hey  who is elon musk
+2025-10-19 01:28:27,409 | INFO | JARVIS | 🗣️ JARVIS: I searched the web but couldn't find specific information about that topic.
+2025-10-19 01:28:33,295 | INFO | voice_recognition | 🗣️ Recognized: I search the web but couldn't find specific information about that topic
+2025-10-19 01:28:33,296 | INFO | JARVIS | 👂 Voice input received: I search the web but couldn't find specific information about that topic
+2025-10-19 01:28:40,256 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis what time it is
+2025-10-19 01:28:40,258 | INFO | JARVIS | 👂 Voice input received: hey Jarvis what time it is
+2025-10-19 01:28:40,258 | INFO | JARVIS | 🎯 Processing voice command: Hey  what time it is
+2025-10-19 01:28:40,273 | INFO | JARVIS | 🧠 Processing ultimate query: Hey  what time it is
+2025-10-19 01:28:40,274 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'mac_automation', 'action': 'system_info'}
+2025-10-19 01:28:40,685 | INFO | JARVIS | 🗣️ JARVIS: Here's your system information, sir.
+Current time: Sun Oct 19 01:28:40 IST 2025. Battery: 58%. Volume: output volume:56, input volume:31, alert volume:100, output muted:false
+2025-10-19 01:28:53,938 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis
+2025-10-19 01:28:53,940 | INFO | JARVIS | 👂 Voice input received: hey Jarvis
+2025-10-19 01:28:53,940 | INFO | JARVIS | 🎯 Processing voice command: Hey
+2025-10-19 01:28:53,942 | INFO | JARVIS | 🧠 Processing ultimate query: Hey
+2025-10-19 01:28:53,943 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'conversation', 'query': 'Hey'}
+2025-10-19 01:28:54,200 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 01:28:54,206 | INFO | JARVIS | 🗣️ JARVIS: Good morning, Mr. Stark. I've been monitoring the situation at the Stark Industries facility. Everything seems to be running smoothly. Shall I update you on any new developments or would you like to proceed with your schedule?
+2025-10-19 01:35:16,060 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:35:16,061 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:35:16,182 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:35:16,394 | INFO | JARVIS | ✅ Enhanced search available
+2025-10-19 01:35:16,434 | INFO | JARVIS | ✅ Wikipedia available
+2025-10-19 01:35:16,442 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:35:16,954 | INFO | JARVIS | ✅ AI Brain initialized
+2025-10-19 01:35:17,534 | INFO | JARVIS | ✅ Consistent Text-to-Speech initialized
+2025-10-19 01:35:17,543 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:35:18,759 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:35:18,760 | INFO | JARVIS | ✅ Voice recognition initialized
+2025-10-19 01:35:18,834 | INFO | JARVIS | 🗣️ JARVIS: Good evening, Mr. Luthra. JARVIS is online with enhanced capabilities. I can search the web, control your Mac, and handle any task you require.
+2025-10-19 01:35:19,043 | INFO | JARVIS | 🚀 Enhanced JARVIS Application started
+2025-10-19 01:35:41,767 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:35:50,957 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis how are you
+2025-10-19 01:35:50,958 | INFO | JARVIS | 👂 Voice input received: hey Jarvis how are you
+2025-10-19 01:35:50,958 | INFO | JARVIS | 🎯 Processing voice command: Hey  how are you
+2025-10-19 01:35:50,966 | INFO | JARVIS | 🧠 Processing enhanced query: Hey  how are you
+2025-10-19 01:35:50,967 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'conversation', 'query': 'Hey  how are you'}
+2025-10-19 01:35:51,302 | INFO | httpx | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-19 01:35:51,324 | INFO | JARVIS | 🗣️ JARVIS: Good morning, Mr. Luthra. I'm functioning within optimal parameters, ready to assist you with any tasks or information you require. The current weather is partly cloudy with a high of 68 degrees Fahrenheit. I've also taken the liberty of checking your schedule for the day and found that you have a meeting with the marketing team at 10:00 AM. Shall I remind you before the meeting, sir?
+2025-10-19 01:36:00,959 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis who is Elon Musk
+2025-10-19 01:36:00,960 | INFO | JARVIS | 👂 Voice input received: hey Jarvis who is Elon Musk
+2025-10-19 01:36:00,960 | INFO | JARVIS | 🎯 Processing voice command: Hey  who is elon musk
+2025-10-19 01:36:00,963 | INFO | JARVIS | 🧠 Processing enhanced query: Hey  who is elon musk
+2025-10-19 01:36:00,964 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'web_search', 'query': 'Hey  who is elon musk'}
+2025-10-19 01:36:00,964 | INFO | JARVIS | 🔍 Enhanced web search for: Hey  who is elon musk
+2025-10-19 01:36:01,206 | INFO | primp | response: https://www.bing.com/search?q=who+is+elon+musk 200
+2025-10-19 01:36:01,270 | INFO | JARVIS | 🗣️ JARVIS: Based on my web search, here's what I found: Elon Musk - Wikipedia: Elon Reeve Musk (/ ˈiːlɒn / EE-lon; born June 28, 1971) is a businessman and entrepreneur known for his leadership of Tesla, SpaceX, Twitter, and xAI.... Elon Musk | SpaceX, Tesla, Twitter, X, Trump, DOGE, & Facts ...: Elon Musk (born June 28, 1971, Pretoria, South Africa) is a South African –born American entrepreneur who cofounded the electronic payment firm PayPal... Who is Elon Musk and what is his net worth? - BBC: Oct 2, 2025 · It seems like not a day goes by without billionaire Elon Musk making headlines. In early October 2025, the boss of Tesla, SpaceX, and X ...
+2025-10-19 01:36:21,190 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:36:22,471 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:36:27,842 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis who is Elon Musk
+2025-10-19 01:36:27,844 | INFO | JARVIS | 👂 Voice input received: hey Jarvis who is Elon Musk
+2025-10-19 01:36:27,844 | INFO | JARVIS | 🎯 Processing voice command: Hey  who is elon musk
+2025-10-19 01:36:27,847 | INFO | JARVIS | 🧠 Processing enhanced query: Hey  who is elon musk
+2025-10-19 01:36:27,848 | INFO | JARVIS | 🎯 Intent analyzed: {'type': 'web_search', 'query': 'Hey  who is elon musk'}
+2025-10-19 01:36:27,848 | INFO | JARVIS | 🔍 Enhanced web search for: Hey  who is elon musk
+2025-10-19 01:36:28,038 | INFO | primp | response: https://www.bing.com/search?q=who+is+elon+musk 200
+2025-10-19 01:36:29,493 | INFO | primp | response: https://www.bing.com/search?q=who+is+elon+musk&first=11&FORM=PERE 200
+2025-10-19 01:36:29,731 | INFO | JARVIS | 🗣️ JARVIS: Based on my web search, here's what I found: Elon Musk - Wikipedia: Elon Reeve Musk was born on June 28, 1971, in Pretoria, South Africa's administrative capital.   He is of British and Pennsylvania Dutch ancestry.   H... Elon Musk Age, Wife, Girlfriend, Children, Family, Biography: Learn about Elon Musk's age, wife, girlfriend, children, family, and achievements. Find out his awards, controversies, and recent news on Twitter and ... Who is Elon Musk and what is his net worth? All you need to …: According to the Bloomberg Billionaires Index, Elon Musk holds the top spot with a net worth of $398 billion. Meta head Mark Zuckerberg is a distant s...
+2025-10-19 01:36:37,920 | INFO | voice_recognition | 🗣️ Recognized: based on my web search here is what I found Elon Musk Wikipedia
+2025-10-19 01:36:37,921 | INFO | JARVIS | 👂 Voice input received: based on my web search here is what I found Elon Musk Wikipedia
+2025-10-19 01:36:48,269 | INFO | voice_recognition | 🗣️ Recognized: 1971 in Pretoria South Africa administrative capital he is of British and Pennsylvania Dutch ancestry age Elon
+2025-10-19 01:36:48,271 | INFO | JARVIS | 👂 Voice input received: 1971 in Pretoria South Africa administrative capital he is of British and Pennsylvania Dutch ancestry age Elon
+2025-10-19 01:36:52,789 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:36:52,826 | ERROR | voice_recognition | Continuous listen error: This audio source is already inside a context manager
+2025-10-19 01:36:52,826 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:36:58,646 | INFO | voice_recognition | 🗣️ Recognized: learn about Elon Musk age wife girlfriend children family and achievements find
+2025-10-19 01:36:58,648 | INFO | JARVIS | 👂 Voice input received: learn about Elon Musk age wife girlfriend children family and achievements find
+2025-10-19 01:37:08,166 | INFO | voice_recognition | 🗣️ Recognized: who is Elon Musk and what is his net worth all you need
+2025-10-19 01:37:08,167 | INFO | JARVIS | 👂 Voice input received: who is Elon Musk and what is his net worth all you need
+2025-10-19 01:37:16,897 | INFO | voice_recognition | 🗣️ Recognized: Elon Musk holds the top spot with the net worth of 398 billion is a distinction
+2025-10-19 01:37:16,897 | INFO | JARVIS | 👂 Voice input received: Elon Musk holds the top spot with the net worth of 398 billion is a distinction
+2025-10-19 01:39:57,300 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:39:57,303 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:39:57,515 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:39:57,632 | INFO | JARVIS | ✅ Enhanced search available
+2025-10-19 01:39:57,640 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:39:58,215 | INFO | JARVIS | ✅ AI Agent initialized
+2025-10-19 01:39:58,906 | INFO | JARVIS | ✅ TTS initialized
+2025-10-19 01:39:58,914 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:40:00,208 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:40:00,210 | INFO | JARVIS | ✅ Voice recognition ready
+2025-10-19 01:40:00,553 | INFO | JARVIS | 🚀 Streamlined JARVIS started
+2025-10-19 01:40:08,224 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:46:01,921 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:46:01,923 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:46:02,050 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:46:02,151 | INFO | JARVIS | ✅ Enhanced search available
+2025-10-19 01:46:02,159 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:46:02,458 | INFO | JARVIS | ✅ AI Agent initialized
+2025-10-19 01:46:03,029 | INFO | JARVIS | ✅ TTS initialized
+2025-10-19 01:46:03,037 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:46:05,149 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:46:05,150 | INFO | JARVIS | ✅ Voice recognition ready
+2025-10-19 01:46:05,393 | INFO | JARVIS | 🚀 Streamlined JARVIS started
+2025-10-19 01:46:16,612 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:46:39,858 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:46:39,887 | ERROR | voice_recognition | Continuous listen error: This audio source is already inside a context manager
+2025-10-19 01:46:39,887 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:46:41,139 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:46:43,028 | ERROR | voice_recognition | Continuous listen error: This audio source is already inside a context manager
+2025-10-19 01:46:43,028 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:46:44,446 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:46:54,726 | INFO | JARVIS | ✅ PyQt5 imported successfully
+2025-10-19 01:46:54,727 | INFO | JARVIS | ✅ Text-to-Speech available
+2025-10-19 01:46:54,857 | INFO | JARVIS | ✅ Groq AI available
+2025-10-19 01:46:54,958 | INFO | JARVIS | ✅ Enhanced search available
+2025-10-19 01:46:54,969 | INFO | voice_recognition | ✅ Speech recognition available
+2025-10-19 01:46:55,228 | INFO | JARVIS | ✅ AI Agent initialized
+2025-10-19 01:46:55,707 | INFO | JARVIS | ✅ TTS initialized
+2025-10-19 01:46:55,715 | INFO | voice_recognition | 🎤 Calibrating microphone...
+2025-10-19 01:46:56,910 | INFO | voice_recognition | ✅ Voice recognition ready
+2025-10-19 01:46:56,911 | INFO | JARVIS | ✅ Voice recognition ready
+2025-10-19 01:46:57,128 | INFO | JARVIS | 🚀 Streamlined JARVIS started
+2025-10-19 01:47:01,988 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:47:10,560 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:47:12,193 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:47:15,075 | INFO | voice_recognition | 🗣️ Recognized: hey Jarvis
+2025-10-19 01:47:19,907 | INFO | voice_recognition | 🗣️ Recognized: who is Elon Musk
+2025-10-19 01:47:23,662 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:47:23,673 | ERROR | voice_recognition | Continuous listen error: This audio source is already inside a context manager
+2025-10-19 01:47:23,674 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:47:23,681 | INFO | voice_recognition | 🔇 Stopped listening
+2025-10-19 01:47:23,688 | ERROR | voice_recognition | Continuous listen error: This audio source is already inside a context manager
+2025-10-19 01:47:23,688 | INFO | voice_recognition | 🎤 Started continuous listening
+2025-10-19 01:47:23,754 | INFO | voice_recognition | 🔇 Stopped listening

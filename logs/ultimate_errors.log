@@ -1,0 +1,6 @@
+2025-10-19 02:29:22,843 | ULTIMATE_JARVIS      | ERROR    | check_dependencies | Missing packages: PyQt6, beautifulsoup4
+2025-10-19 02:29:22,843 | ULTIMATE_JARVIS      | ERROR    | run_startup_sequence | Dependency check failed
+2025-10-19 02:29:22,843 | ULTIMATE_JARVIS      | ERROR    | main            | Failed to create application
+2025-10-19 02:29:58,264 | ULTIMATE_JARVIS      | ERROR    | check_dependencies | Missing packages: PyQt6, beautifulsoup4
+2025-10-19 02:29:58,264 | ULTIMATE_JARVIS      | ERROR    | run_startup_sequence | Dependency check failed
+2025-10-19 02:29:58,264 | ULTIMATE_JARVIS      | ERROR    | main            | Failed to create application
